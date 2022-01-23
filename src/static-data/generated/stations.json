@@ -1,0 +1,5782 @@
+{
+  "mgzb": {
+    "id": "mgzb",
+    "name": "Günzburg",
+    "coordinates": {
+      "world": [
+        10.278707,
+        48.460226
+      ]
+    }
+  },
+  "ma": {
+    "id": "ma",
+    "name": "Augsburg Hbf",
+    "coordinates": {
+      "world": [
+        10.88547706604,
+        48.3654307143927
+      ]
+    }
+  },
+  "bhf": {
+    "id": "bhf",
+    "name": "Berlin Ostbahnhof",
+    "coordinates": {
+      "world": [
+        13.4346995,
+        52.5104989
+      ]
+    }
+  },
+  "bspd": {
+    "id": "bspd",
+    "name": "Berlin-Spandau",
+    "coordinates": {
+      "world": [
+        13.1989467,
+        52.5343152
+      ]
+    }
+  },
+  "gsb": {
+    "id": "gsb",
+    "name": "Berlin Gesundbrunnen",
+    "coordinates": {
+      "world": [
+        13.3904267,
+        52.5486327
+      ]
+    }
+  },
+  "esrt": {
+    "id": "esrt",
+    "name": "Schwerte (Ruhr)",
+    "coordinates": {
+      "world": [
+        7.55896,
+        51.442281
+      ]
+    }
+  },
+  "hagen": {
+    "id": "hagen",
+    "name": "Hagen Hbf",
+    "coordinates": {
+      "world": [
+        7.460249,
+        51.362747
+      ]
+    }
+  },
+  "wuppv": {
+    "id": "wuppv",
+    "name": "Wuppertal-Vohwinkel",
+    "coordinates": {
+      "world": [
+        7.07237,
+        51.23351
+      ]
+    }
+  },
+  "dussel": {
+    "id": "dussel",
+    "name": "Düsseldorf Hbf",
+    "coordinates": {
+      "world": [
+        6.793137,
+        51.220146
+      ]
+    }
+  },
+  "eenp": {
+    "id": "eenp",
+    "name": "Ennepetal",
+    "coordinates": {
+      "world": [
+        7.343285,
+        51.304892
+      ]
+    }
+  },
+  "kswe": {
+    "id": "kswe",
+    "name": "Schwelm",
+    "coordinates": {
+      "world": [
+        7.289681,
+        51.290526
+      ]
+    }
+  },
+  "kwo": {
+    "id": "kwo",
+    "name": "Wuppertal-Oberbarmen",
+    "coordinates": {
+      "world": [
+        7.221483,
+        51.273839
+      ]
+    }
+  },
+  "kwba": {
+    "id": "kwba",
+    "name": "Wuppertal-Barmen",
+    "coordinates": {
+      "world": [
+        7.195929,
+        51.267082
+      ]
+    }
+  },
+  "wupph": {
+    "id": "wupph",
+    "name": "Wuppertal Hbf",
+    "coordinates": {
+      "world": [
+        7.14939,
+        51.25433
+      ]
+    }
+  },
+  "hamm": {
+    "id": "hamm",
+    "name": "Hamm (Westf.)",
+    "coordinates": {
+      "world": [
+        7.807821,
+        51.678078
+      ]
+    }
+  },
+  "edo": {
+    "id": "edo",
+    "name": "Dortmund Hbf",
+    "coordinates": {
+      "world": [
+        7.45929,
+        51.517896
+      ]
+    }
+  },
+  "elue": {
+    "id": "elue",
+    "name": "Lünen Hbf",
+    "coordinates": {
+      "world": [
+        7.52949,
+        51.61713
+      ]
+    }
+  },
+  "eprn": {
+    "id": "eprn",
+    "name": "Preussen",
+    "coordinates": {
+      "world": [
+        7.53933,
+        51.58833
+      ]
+    }
+  },
+  "edd": {
+    "id": "edd",
+    "name": "Dortmund Derne",
+    "coordinates": {
+      "world": [
+        7.52855,
+        51.56754
+      ]
+    }
+  },
+  "edkd": {
+    "id": "edkd",
+    "name": "Dortmund Kirchderne",
+    "coordinates": {
+      "world": [
+        7.510099,
+        51.547076
+      ]
+    }
+  },
+  "oberh": {
+    "id": "oberh",
+    "name": "Oberhausen Hbf",
+    "coordinates": {
+      "world": [
+        6.852038,
+        51.47512
+      ]
+    }
+  },
+  "oberhs": {
+    "id": "oberhs",
+    "name": "Oberhausen-Sterkrade",
+    "coordinates": {
+      "world": [
+        6.843611,
+        51.512222
+      ]
+    }
+  },
+  "wesel": {
+    "id": "wesel",
+    "name": "Wesel",
+    "coordinates": {
+      "world": [
+        6.627222,
+        51.655833
+      ]
+    }
+  },
+  "em": {
+    "id": "em",
+    "name": "Emmerich",
+    "coordinates": {
+      "world": [
+        6.255718,
+        51.834283
+      ]
+    }
+  },
+  "duisb": {
+    "id": "duisb",
+    "name": "Duisburg Hbf",
+    "coordinates": {
+      "world": [
+        6.77590370178222,
+        51.4297785713316
+      ]
+    }
+  },
+  "eun": {
+    "id": "eun",
+    "name": "Unna",
+    "coordinates": {
+      "world": [
+        7.6953056,
+        51.5385828
+      ]
+    }
+  },
+  "ehzw": {
+    "id": "ehzw",
+    "name": "Holzwickede",
+    "coordinates": {
+      "world": [
+        7.619647,
+        51.504767
+      ]
+    }
+  },
+  "ebeo": {
+    "id": "ebeo",
+    "name": "Bönen",
+    "coordinates": {
+      "world": [
+        7.757296,
+        51.598015
+      ]
+    }
+  },
+  "ffs": {
+    "id": "ffs",
+    "name": "Frankfurt (Main) Süd",
+    "coordinates": {
+      "world": [
+        8.686389,
+        50.099444
+      ]
+    }
+  },
+  "fffm": {
+    "id": "fffm",
+    "name": "Frankfurt (M) Hbf",
+    "coordinates": {
+      "world": [
+        8.6638338,
+        50.1071222
+      ]
+    }
+  },
+  "hwob": {
+    "id": "hwob",
+    "name": "Wolfsburg Hbf",
+    "coordinates": {
+      "world": [
+        10.788195,
+        52.429492
+      ]
+    }
+  },
+  "hann": {
+    "id": "hann",
+    "name": "Hannover Hbf",
+    "coordinates": {
+      "world": [
+        9.7416759,
+        52.3770401
+      ]
+    }
+  },
+  "minden": {
+    "id": "minden",
+    "name": "Minden (Westf)",
+    "coordinates": {
+      "world": [
+        8.934728,
+        52.290138
+      ]
+    }
+  },
+  "oeynh": {
+    "id": "oeynh",
+    "name": "Bad Oeynhausen",
+    "coordinates": {
+      "world": [
+        8.796932,
+        52.205461
+      ]
+    }
+  },
+  "bielef": {
+    "id": "bielef",
+    "name": "Bielefeld Hbf",
+    "coordinates": {
+      "world": [
+        8.532722,
+        52.029261
+      ]
+    }
+  },
+  "mannhe": {
+    "id": "mannhe",
+    "name": "Mannheim Hbf",
+    "coordinates": {
+      "world": [
+        8.468921,
+        49.479354
+      ]
+    }
+  },
+  "karlsr": {
+    "id": "karlsr",
+    "name": "Karlsruhe Hbf",
+    "coordinates": {
+      "world": [
+        8.400743,
+        48.9936223
+      ]
+    }
+  },
+  "ro": {
+    "id": "ro",
+    "name": "Offenburg",
+    "coordinates": {
+      "world": [
+        7.946723,
+        48.476475
+      ]
+    }
+  },
+  "rf": {
+    "id": "rf",
+    "name": "Freiburg (Breisgau) Hbf",
+    "coordinates": {
+      "world": [
+        7.84134,
+        47.99789
+      ]
+    }
+  },
+  "baselb": {
+    "id": "baselb",
+    "name": "Basel Bad Bf",
+    "coordinates": {
+      "world": [
+        7.6073,
+        47.56815
+      ]
+    }
+  },
+  "viers": {
+    "id": "viers",
+    "name": "Viersen",
+    "coordinates": {
+      "world": [
+        6.40388,
+        51.25516
+      ]
+    }
+  },
+  "kdul": {
+    "id": "kdul",
+    "name": "Dülken",
+    "coordinates": {
+      "world": [
+        6.33793,
+        51.257149
+      ]
+    }
+  },
+  "kboi": {
+    "id": "kboi",
+    "name": "Boisheim",
+    "coordinates": {
+      "world": [
+        6.274591,
+        51.274323
+      ]
+    }
+  },
+  "kbry": {
+    "id": "kbry",
+    "name": "Breyell",
+    "coordinates": {
+      "world": [
+        6.241174,
+        51.294615
+      ]
+    }
+  },
+  "kn": {
+    "id": "kn",
+    "name": "Kaldenkirchen",
+    "coordinates": {
+      "world": [
+        6.203225,
+        51.327184
+      ]
+    }
+  },
+  "neuss": {
+    "id": "neuss",
+    "name": "Neuss Hbf",
+    "coordinates": {
+      "world": [
+        6.68468,
+        51.20444
+      ]
+    }
+  },
+  "mcgb": {
+    "id": "mcgb",
+    "name": "Mönchengladbach Hbf",
+    "coordinates": {
+      "world": [
+        6.446111,
+        51.196583
+      ]
+    }
+  },
+  "hz": {
+    "id": "hz",
+    "name": "Herzogenrath",
+    "coordinates": {
+      "world": [
+        6.094486,
+        50.870916
+      ]
+    }
+  },
+  "aw": {
+    "id": "aw",
+    "name": "Aachen West",
+    "coordinates": {
+      "world": [
+        6.070715,
+        50.78036
+      ]
+    }
+  },
+  "kkerp": {
+    "id": "kkerp",
+    "name": "Köln-Ehrenfeld",
+    "coordinates": {
+      "world": [
+        6.917276,
+        50.951533
+      ]
+    }
+  },
+  "ahbf": {
+    "id": "ahbf",
+    "name": "Aachen Hbf",
+    "coordinates": {
+      "world": [
+        6.091499,
+        50.7678
+      ]
+    }
+  },
+  "koln": {
+    "id": "koln",
+    "name": "Köln Hbf",
+    "coordinates": {
+      "world": [
+        6.9589214,
+        50.9432158
+      ]
+    }
+  },
+  "kkw": {
+    "id": "kkw",
+    "name": "Köln West",
+    "coordinates": {
+      "world": [
+        6.934444,
+        50.943611
+      ]
+    }
+  },
+  "bonn": {
+    "id": "bonn",
+    "name": "Bonn Hbf",
+    "coordinates": {
+      "world": [
+        7.09712505340576,
+        50.7320141646745
+      ]
+    }
+  },
+  "kkm": {
+    "id": "kkm",
+    "name": "Köln-Mülheim",
+    "coordinates": {
+      "world": [
+        7.013333,
+        50.958056
+      ]
+    }
+  },
+  "kkd": {
+    "id": "kkd",
+    "name": "Köln Messe/Deutz",
+    "coordinates": {
+      "world": [
+        6.975001,
+        50.940874
+      ]
+    }
+  },
+  "kt": {
+    "id": "kt",
+    "name": "Troisdorf",
+    "coordinates": {
+      "world": [
+        7.150833,
+        50.813889
+      ]
+    }
+  },
+  "kbb": {
+    "id": "kbb",
+    "name": "Bonn-Beuel",
+    "coordinates": {
+      "world": [
+        7.127778,
+        50.738611
+      ]
+    }
+  },
+  "ksb": {
+    "id": "ksb",
+    "name": "Siegburg/Bonn",
+    "coordinates": {
+      "world": [
+        7.2030017,
+        50.7939411
+      ]
+    }
+  },
+  "kko": {
+    "id": "kko",
+    "name": "Koblenz Hbf",
+    "coordinates": {
+      "world": [
+        7.588649,
+        50.351085
+      ]
+    }
+  },
+  "fmz": {
+    "id": "fmz",
+    "name": "Mainz Hbf",
+    "coordinates": {
+      "world": [
+        8.25872,
+        50.001117
+      ]
+    }
+  },
+  "rosenh": {
+    "id": "rosenh",
+    "name": "Rosenheim",
+    "coordinates": {
+      "world": [
+        12.119167,
+        47.85
+      ]
+    }
+  },
+  "munchh": {
+    "id": "munchh",
+    "name": "München Hbf",
+    "coordinates": {
+      "world": [
+        11.558346748352,
+        48.1402033359505
+      ]
+    }
+  },
+  "edulh": {
+    "id": "edulh",
+    "name": "Dülmen",
+    "coordinates": {
+      "world": [
+        7.295756,
+        51.827927
+      ]
+    }
+  },
+  "munst": {
+    "id": "munst",
+    "name": "Münster (Westf) Hbf",
+    "coordinates": {
+      "world": [
+        7.635895,
+        51.956892
+      ]
+    }
+  },
+  "osnh": {
+    "id": "osnh",
+    "name": "Osnabrück Hbf",
+    "coordinates": {
+      "world": [
+        8.061781,
+        52.272851
+      ]
+    }
+  },
+  "rheine": {
+    "id": "rheine",
+    "name": "Rheine",
+    "coordinates": {
+      "world": [
+        7.434255,
+        52.276299
+      ]
+    }
+  },
+  "leer": {
+    "id": "leer",
+    "name": "Leer (Ostfriesl)",
+    "coordinates": {
+      "world": [
+        7.465283,
+        53.23165
+      ]
+    }
+  },
+  "ebok": {
+    "id": "ebok",
+    "name": "Bork (Westf)",
+    "coordinates": {
+      "world": [
+        7.45664,
+        51.66988
+      ]
+    }
+  },
+  "esem": {
+    "id": "esem",
+    "name": "Selm",
+    "coordinates": {
+      "world": [
+        7.453396,
+        51.707885
+      ]
+    }
+  },
+  "eldh": {
+    "id": "eldh",
+    "name": "Lüdinghausen",
+    "coordinates": {
+      "world": [
+        7.43165,
+        51.76184
+      ]
+    }
+  },
+  "elet": {
+    "id": "elet",
+    "name": "Lette (Kr Coesfeld)",
+    "coordinates": {
+      "world": [
+        7.187,
+        51.8925
+      ]
+    }
+  },
+  "ecmf": {
+    "id": "ecmf",
+    "name": "Coesfeld (Westf)",
+    "coordinates": {
+      "world": [
+        7.1642,
+        51.939
+      ]
+    }
+  },
+  "eseb": {
+    "id": "eseb",
+    "name": "Selm-Beifang",
+    "coordinates": {
+      "world": [
+        7.454829,
+        51.692947
+      ]
+    }
+  },
+  "ehw": {
+    "id": "ehw",
+    "name": "Rosendahl-Holtwick",
+    "coordinates": {
+      "world": [
+        7.1215009689331,
+        51.9994672604096
+      ]
+    }
+  },
+  "elgd": {
+    "id": "elgd",
+    "name": "Legden",
+    "coordinates": {
+      "world": [
+        7.088538,
+        52.034924
+      ]
+    }
+  },
+  "eahs": {
+    "id": "eahs",
+    "name": "Ahaus",
+    "coordinates": {
+      "world": [
+        7.01635837554931,
+        52.079796120944
+      ]
+    }
+  },
+  "eepe": {
+    "id": "eepe",
+    "name": "Epe (Westf)",
+    "coordinates": {
+      "world": [
+        7.03009,
+        52.18346
+      ]
+    }
+  },
+  "g": {
+    "id": "g",
+    "name": "Gronau (Westf.)",
+    "coordinates": {
+      "world": [
+        7.022109,
+        52.21521
+      ]
+    }
+  },
+  "ebft": {
+    "id": "ebft",
+    "name": "Steinfurt-Burgsteinfurt",
+    "coordinates": {
+      "world": [
+        7.32934,
+        52.147384
+      ]
+    }
+  },
+  "enbe": {
+    "id": "enbe",
+    "name": "Münster-Häger",
+    "coordinates": {
+      "world": [
+        7.562668,
+        52.022327
+      ]
+    }
+  },
+  "eabg": {
+    "id": "eabg",
+    "name": "Altenberge",
+    "coordinates": {
+      "world": [
+        7.481202,
+        52.05223
+      ]
+    }
+  },
+  "enow": {
+    "id": "enow",
+    "name": "Nordwalde",
+    "coordinates": {
+      "world": [
+        7.461706,
+        52.077618
+      ]
+    }
+  },
+  "ebgo": {
+    "id": "ebgo",
+    "name": "Steinfurt-Borghorst",
+    "coordinates": {
+      "world": [
+        7.397581,
+        52.118791
+      ]
+    }
+  },
+  "emte": {
+    "id": "emte",
+    "name": "Metelen Land",
+    "coordinates": {
+      "world": [
+        7.254423,
+        52.162444
+      ]
+    }
+  },
+  "eop": {
+    "id": "eop",
+    "name": "Ochtrup",
+    "coordinates": {
+      "world": [
+        7.182643,
+        52.201703
+      ]
+    }
+  },
+  "bh": {
+    "id": "bh",
+    "name": "Bad Bentheim",
+    "coordinates": {
+      "world": [
+        7.15853691101074,
+        52.309685595156
+      ]
+    }
+  },
+  "buende": {
+    "id": "buende",
+    "name": "Bünde (Westf)",
+    "coordinates": {
+      "world": [
+        8.573876,
+        52.202075
+      ]
+    }
+  },
+  "wr": {
+    "id": "wr",
+    "name": "Weener",
+    "coordinates": {
+      "world": [
+        7.3442,
+        53.16311
+      ]
+    }
+  },
+  "nurnb": {
+    "id": "nurnb",
+    "name": "Nürnberg Hbf",
+    "coordinates": {
+      "world": [
+        11.0826087,
+        49.4449634
+      ]
+    }
+  },
+  "wurzb": {
+    "id": "wurzb",
+    "name": "Würzburg Hbf",
+    "coordinates": {
+      "world": [
+        9.9358,
+        49.80179
+      ]
+    }
+  },
+  "enhf": {
+    "id": "enhf",
+    "name": "Münster (W) Zentrum Nord",
+    "coordinates": {
+      "world": [
+        7.63861,
+        51.984987
+      ]
+    }
+  },
+  "ls": {
+    "id": "ls",
+    "name": "Stendal",
+    "coordinates": {
+      "world": [
+        11.854412,
+        52.594723
+      ]
+    }
+  },
+  "regenb": {
+    "id": "regenb",
+    "name": "Regensburg Hbf",
+    "coordinates": {
+      "world": [
+        12.099617,
+        49.011672
+      ]
+    }
+  },
+  "pass": {
+    "id": "pass",
+    "name": "Passau Hbf",
+    "coordinates": {
+      "world": [
+        13.450870513916,
+        48.5734269523465
+      ]
+    }
+  },
+  "ts": {
+    "id": "ts",
+    "name": "Stuttgart Hbf",
+    "coordinates": {
+      "world": [
+        9.181635,
+        48.784084
+      ]
+    }
+  },
+  "tp": {
+    "id": "tp",
+    "name": "Plochingen",
+    "coordinates": {
+      "world": [
+        9.41081,
+        48.71308
+      ]
+    }
+  },
+  "tgo": {
+    "id": "tgo",
+    "name": "Göppingen",
+    "coordinates": {
+      "world": [
+        9.651685,
+        48.700191
+      ]
+    }
+  },
+  "tu": {
+    "id": "tu",
+    "name": "Ulm Hbf",
+    "coordinates": {
+      "world": [
+        9.982165,
+        48.399015
+      ]
+    }
+  },
+  "flb": {
+    "id": "flb",
+    "name": "Limburg Süd",
+    "coordinates": {
+      "world": [
+        8.096112,
+        50.382498
+      ]
+    }
+  },
+  "el": {
+    "id": "el",
+    "name": "Elten",
+    "coordinates": {
+      "world": [
+        6.15417,
+        51.8743
+      ]
+    }
+  },
+  "kdffh": {
+    "id": "kdffh",
+    "name": "Düsseldorf Flughafen",
+    "coordinates": {
+      "world": [
+        6.786836,
+        51.292009
+      ]
+    }
+  },
+  "fnaf": {
+    "id": "fnaf",
+    "name": "Frankfurt Flughafen Fernb",
+    "coordinates": {
+      "world": [
+        8.570237159729,
+        50.0531710299286
+      ]
+    }
+  },
+  "berhbl": {
+    "id": "berhbl",
+    "name": "Berlin Hbf",
+    "coordinates": {
+      "world": [
+        13.36946,
+        52.52503
+      ]
+    }
+  },
+  "egrk": {
+    "id": "egrk",
+    "name": "Steinfurt-Grottenkamp",
+    "coordinates": {
+      "world": [
+        7.376031,
+        52.123439
+      ]
+    }
+  },
+  "brusn": {
+    "id": "brusn",
+    "name": "Brussel-Noord",
+    "coordinates": {
+      "world": [
+        4.360854,
+        50.859658
+      ]
+    }
+  },
+  "brusc": {
+    "id": "brusc",
+    "name": "Brussel-Centraal",
+    "coordinates": {
+      "world": [
+        4.357131,
+        50.845175
+      ]
+    }
+  },
+  "brusz": {
+    "id": "brusz",
+    "name": "Brussel-Zuid Midi",
+    "coordinates": {
+      "world": [
+        4.336922,
+        50.836782
+      ]
+    }
+  },
+  "fbnl": {
+    "id": "fbnl",
+    "name": "Brussels Airport-Zaventem",
+    "coordinates": {
+      "world": [
+        4.48549,
+        50.896821
+      ]
+    }
+  },
+  "atw": {
+    "id": "atw",
+    "name": "Antwerpen-Centraal",
+    "coordinates": {
+      "world": [
+        4.421242,
+        51.21686
+      ]
+    }
+  },
+  "atwlb": {
+    "id": "atwlb",
+    "name": "Antwerpen-Luchtbal",
+    "coordinates": {
+      "world": [
+        4.4251543,
+        51.2449375
+      ]
+    }
+  },
+  "lkr": {
+    "id": "lkr",
+    "name": "Ekeren",
+    "coordinates": {
+      "world": [
+        4.4341227,
+        51.2816099
+      ]
+    }
+  },
+  "andd": {
+    "id": "andd",
+    "name": "Antwerpen-Noorderdokken",
+    "coordinates": {
+      "world": [
+        4.4274315,
+        51.261686
+      ]
+    }
+  },
+  "ndkp": {
+    "id": "ndkp",
+    "name": "Noorderkempen",
+    "coordinates": {
+      "world": [
+        4.633977,
+        51.358088
+      ]
+    }
+  },
+  "berch": {
+    "id": "berch",
+    "name": "Antwerpen-Berchem",
+    "coordinates": {
+      "world": [
+        4.4332,
+        51.198914
+      ]
+    }
+  },
+  "fnzd": {
+    "id": "fnzd",
+    "name": "Antwerpen-Zuid",
+    "coordinates": {
+      "world": [
+        4.39027,
+        51.19785
+      ]
+    }
+  },
+  "esn": {
+    "id": "esn",
+    "name": "Essen (B)",
+    "coordinates": {
+      "world": [
+        4.45129,
+        51.46261
+      ]
+    }
+  },
+  "gwd": {
+    "id": "gwd",
+    "name": "Wildert",
+    "coordinates": {
+      "world": [
+        4.4633962,
+        51.4277061
+      ]
+    }
+  },
+  "fkth": {
+    "id": "fkth",
+    "name": "Kalmthout",
+    "coordinates": {
+      "world": [
+        4.4668202,
+        51.3909989
+      ]
+    }
+  },
+  "gkt": {
+    "id": "gkt",
+    "name": "Kijkuit",
+    "coordinates": {
+      "world": [
+        4.46722,
+        51.37867
+      ]
+    }
+  },
+  "mid": {
+    "id": "mid",
+    "name": "Heide (B)",
+    "coordinates": {
+      "world": [
+        4.4604308,
+        51.364828
+      ]
+    }
+  },
+  "lkp": {
+    "id": "lkp",
+    "name": "Kapellen",
+    "coordinates": {
+      "world": [
+        4.43262,
+        51.31362
+      ]
+    }
+  },
+  "maria": {
+    "id": "maria",
+    "name": "Sint-Mariaburg",
+    "coordinates": {
+      "world": [
+        4.43495,
+        51.29126
+      ]
+    }
+  },
+  "mech": {
+    "id": "mech",
+    "name": "Mechelen",
+    "coordinates": {
+      "world": [
+        4.48313,
+        51.01758
+      ]
+    }
+  },
+  "frp": {
+    "id": "frp",
+    "name": "Puurs",
+    "coordinates": {
+      "world": [
+        4.28273,
+        51.07716
+      ]
+    }
+  },
+  "fmb": {
+    "id": "fmb",
+    "name": "Boom",
+    "coordinates": {
+      "world": [
+        4.36057,
+        51.09063
+      ]
+    }
+  },
+  "fsv": {
+    "id": "fsv",
+    "name": "Ruisbroek-Sauvegarde",
+    "coordinates": {
+      "world": [
+        4.32551,
+        51.08115
+      ]
+    }
+  },
+  "foe": {
+    "id": "foe",
+    "name": "Hoboken-Polder",
+    "coordinates": {
+      "world": [
+        4.34831,
+        51.18285
+      ]
+    }
+  },
+  "lkm": {
+    "id": "lkm",
+    "name": "Hemiksem",
+    "coordinates": {
+      "world": [
+        4.33828,
+        51.13624
+      ]
+    }
+  },
+  "schll": {
+    "id": "schll",
+    "name": "Schelle",
+    "coordinates": {
+      "world": [
+        4.34023,
+        51.12555
+      ]
+    }
+  },
+  "lni": {
+    "id": "lni",
+    "name": "Niel",
+    "coordinates": {
+      "world": [
+        4.33845,
+        51.11154
+      ]
+    }
+  },
+  "fhs": {
+    "id": "fhs",
+    "name": "Hasselt",
+    "coordinates": {
+      "world": [
+        5.3275,
+        50.930555
+      ]
+    }
+  },
+  "gdp": {
+    "id": "gdp",
+    "name": "Diepenbeek",
+    "coordinates": {
+      "world": [
+        5.419722,
+        50.910278
+      ]
+    }
+  },
+  "fie": {
+    "id": "fie",
+    "name": "Bilzen",
+    "coordinates": {
+      "world": [
+        5.509167,
+        50.868333
+      ]
+    }
+  },
+  "ftg": {
+    "id": "ftg",
+    "name": "Tongeren",
+    "coordinates": {
+      "world": [
+        5.473056,
+        50.784167
+      ]
+    }
+  },
+  "leuven": {
+    "id": "leuven",
+    "name": "Leuven",
+    "coordinates": {
+      "world": [
+        4.71568,
+        50.88136
+      ]
+    }
+  },
+  "luik": {
+    "id": "luik",
+    "name": "Liège-Guillemins",
+    "coordinates": {
+      "world": [
+        5.56648,
+        50.62436
+      ]
+    }
+  },
+  "flgp": {
+    "id": "flgp",
+    "name": "Liège-Saint-Lambert",
+    "coordinates": {
+      "world": [
+        5.57072,
+        50.64648
+      ]
+    }
+  },
+  "flj": {
+    "id": "flj",
+    "name": "Liège-Carré",
+    "coordinates": {
+      "world": [
+        5.56197,
+        50.64051
+      ]
+    }
+  },
+  "lhs": {
+    "id": "lhs",
+    "name": "Herstal",
+    "coordinates": {
+      "world": [
+        5.62231,
+        50.66076
+      ]
+    }
+  },
+  "bltm": {
+    "id": "bltm",
+    "name": "Milmort",
+    "coordinates": {
+      "world": [
+        5.59983,
+        50.69301
+      ]
+    }
+  },
+  "lsl": {
+    "id": "lsl",
+    "name": "Liers",
+    "coordinates": {
+      "world": [
+        5.56848,
+        50.69822
+      ]
+    }
+  },
+  "lgl": {
+    "id": "lgl",
+    "name": "Glons",
+    "coordinates": {
+      "world": [
+        5.535278,
+        50.750277
+      ]
+    }
+  },
+  "bressx": {
+    "id": "bressx",
+    "name": "Bressoux",
+    "coordinates": {
+      "world": [
+        5.6112542,
+        50.643829
+      ]
+    }
+  },
+  "fvs": {
+    "id": "fvs",
+    "name": "Visé",
+    "coordinates": {
+      "world": [
+        5.69232,
+        50.73781
+      ]
+    }
+  },
+  "flk": {
+    "id": "flk",
+    "name": "Lokeren",
+    "coordinates": {
+      "world": [
+        3.985833,
+        51.107222
+      ]
+    }
+  },
+  "lsw": {
+    "id": "lsw",
+    "name": "Sinaai",
+    "coordinates": {
+      "world": [
+        4.068889,
+        51.143333
+      ]
+    }
+  },
+  "llb": {
+    "id": "llb",
+    "name": "Belsele",
+    "coordinates": {
+      "world": [
+        4.088332,
+        51.150833
+      ]
+    }
+  },
+  "fsn": {
+    "id": "fsn",
+    "name": "Sint-Niklaas",
+    "coordinates": {
+      "world": [
+        4.144167,
+        51.171944
+      ]
+    }
+  },
+  "fnu": {
+    "id": "fnu",
+    "name": "Nieuwkerken-Waas",
+    "coordinates": {
+      "world": [
+        4.185832,
+        51.185556
+      ]
+    }
+  },
+  "fbr": {
+    "id": "fbr",
+    "name": "Beveren",
+    "coordinates": {
+      "world": [
+        4.259444,
+        51.208056
+      ]
+    }
+  },
+  "lm": {
+    "id": "lm",
+    "name": "Melsele",
+    "coordinates": {
+      "world": [
+        4.286667,
+        51.210556
+      ]
+    }
+  },
+  "lzd": {
+    "id": "lzd",
+    "name": "Zwijndrecht (B)",
+    "coordinates": {
+      "world": [
+        4.33,
+        51.214167
+      ]
+    }
+  },
+  "stp": {
+    "id": "stp",
+    "name": "London St. Pancras Int.",
+    "coordinates": {
+      "world": [
+        -0.126136,
+        51.531437
+      ]
+    }
+  },
+  "wbf": {
+    "id": "wbf",
+    "name": "Wien Hbf",
+    "coordinates": {
+      "world": [
+        16.375833,
+        48.185
+      ]
+    }
+  },
+  "wienh": {
+    "id": "wienh",
+    "name": "Wien Hütteldorf",
+    "coordinates": {
+      "world": [
+        16.261389,
+        48.197222
+      ]
+    }
+  },
+  "polten": {
+    "id": "polten",
+    "name": "St.Pölten Hbf",
+    "coordinates": {
+      "world": [
+        15.62591,
+        48.20769
+      ]
+    }
+  },
+  "amst": {
+    "id": "amst",
+    "name": "Amstetten NÖ",
+    "coordinates": {
+      "world": [
+        9.873496,
+        48.578476
+      ]
+    }
+  },
+  "linz": {
+    "id": "linz",
+    "name": "Linz Hbf",
+    "coordinates": {
+      "world": [
+        14.29213,
+        48.29018
+      ]
+    }
+  },
+  "wels": {
+    "id": "wels",
+    "name": "Wels Hbf",
+    "coordinates": {
+      "world": [
+        14.026667,
+        48.166111
+      ]
+    }
+  },
+  "worgl": {
+    "id": "worgl",
+    "name": "Wörgl",
+    "coordinates": {
+      "world": [
+        12.06059,
+        47.49178
+      ]
+    }
+  },
+  "jenbac": {
+    "id": "jenbac",
+    "name": "Jenbach",
+    "coordinates": {
+      "world": [
+        11.77841,
+        47.38844
+      ]
+    }
+  },
+  "innsb": {
+    "id": "innsb",
+    "name": "Innsbruck Hbf",
+    "coordinates": {
+      "world": [
+        11.401,
+        47.26328
+      ]
+    }
+  },
+  "kufst": {
+    "id": "kufst",
+    "name": "Kufstein",
+    "coordinates": {
+      "world": [
+        12.16568,
+        47.5831
+      ]
+    }
+  },
+  "atn": {
+    "id": "atn",
+    "name": "Aalten",
+    "coordinates": {
+      "world": [
+        6.57862722873687,
+        51.9213265245505
+      ]
+    }
+  },
+  "ac": {
+    "id": "ac",
+    "name": "Abcoude",
+    "coordinates": {
+      "world": [
+        4.977,
+        52.2785
+      ]
+    }
+  },
+  "akm": {
+    "id": "akm",
+    "name": "Akkrum",
+    "coordinates": {
+      "world": [
+        5.84361124038696,
+        53.0463905334473
+      ]
+    }
+  },
+  "amr": {
+    "id": "amr",
+    "name": "Alkmaar",
+    "coordinates": {
+      "world": [
+        4.73972225189209,
+        52.6377792358398
+      ]
+    }
+  },
+  "aml": {
+    "id": "aml",
+    "name": "Almelo",
+    "coordinates": {
+      "world": [
+        6.65388870239258,
+        52.3580551147461
+      ]
+    }
+  },
+  "amrn": {
+    "id": "amrn",
+    "name": "Alkmaar Noord",
+    "coordinates": {
+      "world": [
+        4.76416683197022,
+        52.6438903808594
+      ]
+    }
+  },
+  "apn": {
+    "id": "apn",
+    "name": "Alphen a/d Rijn",
+    "coordinates": {
+      "world": [
+        4.65777778625488,
+        52.1244430541992
+      ]
+    }
+  },
+  "amfs": {
+    "id": "amfs",
+    "name": "Amersfoort Schothorst",
+    "coordinates": {
+      "world": [
+        5.40388870239258,
+        52.1748221374512
+      ]
+    }
+  },
+  "amf": {
+    "id": "amf",
+    "name": "Amersfoort Centraal",
+    "coordinates": {
+      "world": [
+        5.37055540084839,
+        52.1538887023926
+      ]
+    }
+  },
+  "rai": {
+    "id": "rai",
+    "name": "Amsterdam RAI",
+    "coordinates": {
+      "world": [
+        4.89027786254883,
+        52.3372230529785
+      ]
+    }
+  },
+  "asa": {
+    "id": "asa",
+    "name": "Amsterdam Amstel",
+    "coordinates": {
+      "world": [
+        4.91777801513672,
+        52.3466682434082
+      ]
+    }
+  },
+  "asd": {
+    "id": "asd",
+    "name": "Amsterdam Centraal",
+    "coordinates": {
+      "world": [
+        4.90027761459351,
+        52.3788871765137
+      ]
+    }
+  },
+  "ass": {
+    "id": "ass",
+    "name": "Amsterdam Sloterdijk",
+    "coordinates": {
+      "world": [
+        4.83777761459351,
+        52.3888893127441
+      ]
+    }
+  },
+  "asdm": {
+    "id": "asdm",
+    "name": "Amsterdam Muiderpoort",
+    "coordinates": {
+      "world": [
+        4.93111133575439,
+        52.3605537414551
+      ]
+    }
+  },
+  "asdz": {
+    "id": "asdz",
+    "name": "Amsterdam Zuid",
+    "coordinates": {
+      "world": [
+        4.872356,
+        52.338889
+      ]
+    }
+  },
+  "ana": {
+    "id": "ana",
+    "name": "Anna Paulowna",
+    "coordinates": {
+      "world": [
+        4.81111097335815,
+        52.8672218322754
+      ]
+    }
+  },
+  "apd": {
+    "id": "apd",
+    "name": "Apeldoorn",
+    "coordinates": {
+      "world": [
+        5.97027778625488,
+        52.2091674804687
+      ]
+    }
+  },
+  "apg": {
+    "id": "apg",
+    "name": "Appingedam",
+    "coordinates": {
+      "world": [
+        6.8619577,
+        53.3258135
+      ]
+    }
+  },
+  "akl": {
+    "id": "akl",
+    "name": "Arkel",
+    "coordinates": {
+      "world": [
+        4.99277782440186,
+        51.8719444274902
+      ]
+    }
+  },
+  "arn": {
+    "id": "arn",
+    "name": "Arnemuiden",
+    "coordinates": {
+      "world": [
+        3.66916656494141,
+        51.5016670227051
+      ]
+    }
+  },
+  "ah": {
+    "id": "ah",
+    "name": "Arnhem Centraal",
+    "coordinates": {
+      "world": [
+        5.89916658401489,
+        51.9850006103516
+      ]
+    }
+  },
+  "ahp": {
+    "id": "ahp",
+    "name": "Arnhem Velperpoort",
+    "coordinates": {
+      "world": [
+        5.91944456100464,
+        51.985279083252
+      ]
+    }
+  },
+  "asn": {
+    "id": "asn",
+    "name": "Assen",
+    "coordinates": {
+      "world": [
+        6.57083320617676,
+        52.9916648864746
+      ]
+    }
+  },
+  "asb": {
+    "id": "asb",
+    "name": "Amsterdam Bijlmer ArenA",
+    "coordinates": {
+      "world": [
+        4.94694423675537,
+        52.3122215270996
+      ]
+    }
+  },
+  "ahpr": {
+    "id": "ahpr",
+    "name": "Arnhem Presikhaaf",
+    "coordinates": {
+      "world": [
+        5.94388866424561,
+        51.9880561828613
+      ]
+    }
+  },
+  "asdl": {
+    "id": "asdl",
+    "name": "Amsterdam Lelylaan",
+    "coordinates": {
+      "world": [
+        4.83388900756836,
+        52.3577766418457
+      ]
+    }
+  },
+  "alm": {
+    "id": "alm",
+    "name": "Almere Centrum",
+    "coordinates": {
+      "world": [
+        5.21764,
+        52.37503
+      ]
+    }
+  },
+  "almb": {
+    "id": "almb",
+    "name": "Almere Buiten",
+    "coordinates": {
+      "world": [
+        5.2780556678772,
+        52.3941650390625
+      ]
+    }
+  },
+  "almm": {
+    "id": "almm",
+    "name": "Almere Muziekwijk",
+    "coordinates": {
+      "world": [
+        5.19027757644653,
+        52.3675003051758
+      ]
+    }
+  },
+  "brn": {
+    "id": "brn",
+    "name": "Baarn",
+    "coordinates": {
+      "world": [
+        5.28083324432373,
+        52.2083320617676
+      ]
+    }
+  },
+  "bf": {
+    "id": "bf",
+    "name": "Baflo",
+    "coordinates": {
+      "world": [
+        6.5185581,
+        53.3608969
+      ]
+    }
+  },
+  "brd": {
+    "id": "brd",
+    "name": "Barendrecht",
+    "coordinates": {
+      "world": [
+        4.5533332824707,
+        51.8547210693359
+      ]
+    }
+  },
+  "bnc": {
+    "id": "bnc",
+    "name": "Barneveld Centrum",
+    "coordinates": {
+      "world": [
+        5.59027767181396,
+        52.1399993896484
+      ]
+    }
+  },
+  "bnn": {
+    "id": "bnn",
+    "name": "Barneveld Noord",
+    "coordinates": {
+      "world": [
+        5.59805536270142,
+        52.1613883972168
+      ]
+    }
+  },
+  "bdm": {
+    "id": "bdm",
+    "name": "Bedum",
+    "coordinates": {
+      "world": [
+        6.593054,
+        53.3068857
+      ]
+    }
+  },
+  "bk": {
+    "id": "bk",
+    "name": "Beek-Elsloo",
+    "coordinates": {
+      "world": [
+        5.78666687011719,
+        50.9474983215332
+      ]
+    }
+  },
+  "bsd": {
+    "id": "bsd",
+    "name": "Beesd",
+    "coordinates": {
+      "world": [
+        5.19444465637207,
+        51.8994445800781
+      ]
+    }
+  },
+  "bl": {
+    "id": "bl",
+    "name": "Beilen",
+    "coordinates": {
+      "world": [
+        6.52111101150513,
+        52.8547210693359
+      ]
+    }
+  },
+  "almp": {
+    "id": "almp",
+    "name": "Almere Parkwijk",
+    "coordinates": {
+      "world": [
+        5.24472236633301,
+        52.3766670227051
+      ]
+    }
+  },
+  "bgn": {
+    "id": "bgn",
+    "name": "Bergen op Zoom",
+    "coordinates": {
+      "world": [
+        4.29611110687256,
+        51.4938888549805
+      ]
+    }
+  },
+  "bet": {
+    "id": "bet",
+    "name": "Best",
+    "coordinates": {
+      "world": [
+        5.38916683197022,
+        51.5099983215332
+      ]
+    }
+  },
+  "bv": {
+    "id": "bv",
+    "name": "Beverwijk",
+    "coordinates": {
+      "world": [
+        4.65666675567627,
+        52.4783325195313
+      ]
+    }
+  },
+  "bhv": {
+    "id": "bhv",
+    "name": "Bilthoven",
+    "coordinates": {
+      "world": [
+        5.20388889312744,
+        52.1300010681152
+      ]
+    }
+  },
+  "bnz": {
+    "id": "bnz",
+    "name": "Barneveld Zuid",
+    "coordinates": {
+      "world": [
+        5.60246,
+        52.128853
+      ]
+    }
+  },
+  "br": {
+    "id": "br",
+    "name": "Blerick",
+    "coordinates": {
+      "world": [
+        6.15500020980835,
+        51.372501373291
+      ]
+    }
+  },
+  "bll": {
+    "id": "bll",
+    "name": "Bloemendaal",
+    "coordinates": {
+      "world": [
+        4.62750005722046,
+        52.404167175293
+      ]
+    }
+  },
+  "bdg": {
+    "id": "bdg",
+    "name": "Bodegraven",
+    "coordinates": {
+      "world": [
+        4.7461109161377,
+        52.0813903808594
+      ]
+    }
+  },
+  "bn": {
+    "id": "bn",
+    "name": "Borne",
+    "coordinates": {
+      "world": [
+        6.74805545806885,
+        52.2988891601562
+      ]
+    }
+  },
+  "bsk": {
+    "id": "bsk",
+    "name": "Boskoop",
+    "coordinates": {
+      "world": [
+        4.64694452285767,
+        52.0777778625488
+      ]
+    }
+  },
+  "bsks": {
+    "id": "bsks",
+    "name": "Boskoop Snijdelwijk",
+    "coordinates": {
+      "world": [
+        4.646186,
+        52.067658
+      ]
+    }
+  },
+  "bkg": {
+    "id": "bkg",
+    "name": "Bovenkarspel-Grootebroek",
+    "coordinates": {
+      "world": [
+        5.23777770996094,
+        52.6949996948242
+      ]
+    }
+  },
+  "bmr": {
+    "id": "bmr",
+    "name": "Boxmeer",
+    "coordinates": {
+      "world": [
+        5.93903303146362,
+        51.6445217676531
+      ]
+    }
+  },
+  "btl": {
+    "id": "btl",
+    "name": "Boxtel",
+    "coordinates": {
+      "world": [
+        5.31912,
+        51.58433
+      ]
+    }
+  },
+  "bd": {
+    "id": "bd",
+    "name": "Breda",
+    "coordinates": {
+      "world": [
+        4.78000020980835,
+        51.5955543518066
+      ]
+    }
+  },
+  "bdpb": {
+    "id": "bdpb",
+    "name": "Breda-Prinsenbeek",
+    "coordinates": {
+      "world": [
+        4.72083330154419,
+        51.606388092041
+      ]
+    }
+  },
+  "bkl": {
+    "id": "bkl",
+    "name": "Breukelen",
+    "coordinates": {
+      "world": [
+        4.9906,
+        52.17149
+      ]
+    }
+  },
+  "llzm": {
+    "id": "llzm",
+    "name": "Lansingerland-Zoetermeer",
+    "coordinates": {
+      "world": [
+        4.517222,
+        52.042222
+      ]
+    }
+  },
+  "bmn": {
+    "id": "bmn",
+    "name": "Brummen",
+    "coordinates": {
+      "world": [
+        6.14694452285767,
+        52.0911102294922
+      ]
+    }
+  },
+  "bp": {
+    "id": "bp",
+    "name": "Buitenpost",
+    "coordinates": {
+      "world": [
+        6.1446496,
+        53.2564547
+      ]
+    }
+  },
+  "bde": {
+    "id": "bde",
+    "name": "Bunde",
+    "coordinates": {
+      "world": [
+        5.73666667938232,
+        50.8969459533691
+      ]
+    }
+  },
+  "bnk": {
+    "id": "bnk",
+    "name": "Bunnik",
+    "coordinates": {
+      "world": [
+        5.19444465637207,
+        52.0630569458008
+      ]
+    }
+  },
+  "bsmz": {
+    "id": "bsmz",
+    "name": "Bussum Zuid",
+    "coordinates": {
+      "world": [
+        5.16305541992188,
+        52.2658348083496
+      ]
+    }
+  },
+  "cps": {
+    "id": "cps",
+    "name": "Capelle Schollevaar",
+    "coordinates": {
+      "world": [
+        4.58416652679443,
+        51.9541664123535
+      ]
+    }
+  },
+  "cas": {
+    "id": "cas",
+    "name": "Castricum",
+    "coordinates": {
+      "world": [
+        4.65861129760742,
+        52.5458335876465
+      ]
+    }
+  },
+  "cvm": {
+    "id": "cvm",
+    "name": "Chevremont",
+    "coordinates": {
+      "world": [
+        6.05972242355347,
+        50.8761100769043
+      ]
+    }
+  },
+  "co": {
+    "id": "co",
+    "name": "Coevorden",
+    "coordinates": {
+      "world": [
+        6.73555564880371,
+        52.6636123657227
+      ]
+    }
+  },
+  "cl": {
+    "id": "cl",
+    "name": "Culemborg",
+    "coordinates": {
+      "world": [
+        5.22694444656372,
+        51.9466667175293
+      ]
+    }
+  },
+  "ck": {
+    "id": "ck",
+    "name": "Cuijk",
+    "coordinates": {
+      "world": [
+        5.87429523468017,
+        51.7266825879048
+      ]
+    }
+  },
+  "dln": {
+    "id": "dln",
+    "name": "Dalen",
+    "coordinates": {
+      "world": [
+        6.75805568695068,
+        52.6941680908203
+      ]
+    }
+  },
+  "dmnz": {
+    "id": "dmnz",
+    "name": "Diemen Zuid",
+    "coordinates": {
+      "world": [
+        4.95583343505859,
+        52.3302764892578
+      ]
+    }
+  },
+  "da": {
+    "id": "da",
+    "name": "Daarlerveen",
+    "coordinates": {
+      "world": [
+        6.5759947,
+        52.4407702
+      ]
+    }
+  },
+  "dmn": {
+    "id": "dmn",
+    "name": "Diemen",
+    "coordinates": {
+      "world": [
+        4.967566,
+        52.34515
+      ]
+    }
+  },
+  "dtcp": {
+    "id": "dtcp",
+    "name": "Delft Campus",
+    "coordinates": {
+      "world": [
+        4.36472225189209,
+        51.9908332824707
+      ]
+    }
+  },
+  "dl": {
+    "id": "dl",
+    "name": "Dalfsen",
+    "coordinates": {
+      "world": [
+        6.25861120223999,
+        52.4983329772949
+      ]
+    }
+  },
+  "dei": {
+    "id": "dei",
+    "name": "Deinum",
+    "coordinates": {
+      "world": [
+        5.7281572,
+        53.1888115
+      ]
+    }
+  },
+  "ddn": {
+    "id": "ddn",
+    "name": "Delden",
+    "coordinates": {
+      "world": [
+        6.7161111831665,
+        52.2599983215332
+      ]
+    }
+  },
+  "dt": {
+    "id": "dt",
+    "name": "Delft",
+    "coordinates": {
+      "world": [
+        4.35638904571533,
+        52.0066680908203
+      ]
+    }
+  },
+  "dz": {
+    "id": "dz",
+    "name": "Delfzijl",
+    "coordinates": {
+      "world": [
+        6.9240797,
+        53.3336625
+      ]
+    }
+  },
+  "dn": {
+    "id": "dn",
+    "name": "Deurne",
+    "coordinates": {
+      "world": [
+        5.78888893127441,
+        51.4558334350586
+      ]
+    }
+  },
+  "dv": {
+    "id": "dv",
+    "name": "Deventer",
+    "coordinates": {
+      "world": [
+        6.16055536270142,
+        52.2574996948242
+      ]
+    }
+  },
+  "did": {
+    "id": "did",
+    "name": "Didam",
+    "coordinates": {
+      "world": [
+        6.1324106,
+        51.933502
+      ]
+    }
+  },
+  "dzw": {
+    "id": "dzw",
+    "name": "Delfzijl West",
+    "coordinates": {
+      "world": [
+        6.9069092,
+        53.3320834
+      ]
+    }
+  },
+  "dr": {
+    "id": "dr",
+    "name": "Dieren",
+    "coordinates": {
+      "world": [
+        6.10305547714233,
+        52.0449981689453
+      ]
+    }
+  },
+  "dtc": {
+    "id": "dtc",
+    "name": "Doetinchem",
+    "coordinates": {
+      "world": [
+        6.2962148,
+        51.9585962
+      ]
+    }
+  },
+  "dld": {
+    "id": "dld",
+    "name": "Den Dolder",
+    "coordinates": {
+      "world": [
+        5.24277782440186,
+        52.1402778625488
+      ]
+    }
+  },
+  "ddr": {
+    "id": "ddr",
+    "name": "Dordrecht",
+    "coordinates": {
+      "world": [
+        4.66833353042603,
+        51.8072204589844
+      ]
+    }
+  },
+  "ddzd": {
+    "id": "ddzd",
+    "name": "Dordrecht Zuid",
+    "coordinates": {
+      "world": [
+        4.67138910293579,
+        51.7900009155273
+      ]
+    }
+  },
+  "db": {
+    "id": "db",
+    "name": "Driebergen-Zeist",
+    "coordinates": {
+      "world": [
+        5.25861120223999,
+        52.0652770996094
+      ]
+    }
+  },
+  "drh": {
+    "id": "drh",
+    "name": "Driehuis",
+    "coordinates": {
+      "world": [
+        4.63805532455444,
+        52.4425010681152
+      ]
+    }
+  },
+  "dtch": {
+    "id": "dtch",
+    "name": "Doetinchem De Huet",
+    "coordinates": {
+      "world": [
+        6.2598521,
+        51.9591413
+      ]
+    }
+  },
+  "dvc": {
+    "id": "dvc",
+    "name": "Deventer Colmschate",
+    "coordinates": {
+      "world": [
+        6.21444463729858,
+        52.2502784729004
+      ]
+    }
+  },
+  "ddrs": {
+    "id": "ddrs",
+    "name": "Dordrecht Stadspolders",
+    "coordinates": {
+      "world": [
+        4.71666669845581,
+        51.801944732666
+      ]
+    }
+  },
+  "dvnk": {
+    "id": "dvnk",
+    "name": "De Vink",
+    "coordinates": {
+      "world": [
+        4.4563889503479,
+        52.1472206115723
+      ]
+    }
+  },
+  "drp": {
+    "id": "drp",
+    "name": "Dronryp",
+    "coordinates": {
+      "world": [
+        5.6347411,
+        53.1778086
+      ]
+    }
+  },
+  "dvn": {
+    "id": "dvn",
+    "name": "Duiven",
+    "coordinates": {
+      "world": [
+        6.01472234725952,
+        51.9433326721191
+      ]
+    }
+  },
+  "dvd": {
+    "id": "dvd",
+    "name": "Duivendrecht",
+    "coordinates": {
+      "world": [
+        4.93638896942139,
+        52.3233337402344
+      ]
+    }
+  },
+  "ec": {
+    "id": "ec",
+    "name": "Echt",
+    "coordinates": {
+      "world": [
+        5.87888908386231,
+        51.1005554199219
+      ]
+    }
+  },
+  "ehs": {
+    "id": "ehs",
+    "name": "Eindhoven Strijp-S",
+    "coordinates": {
+      "world": [
+        5.45583343505859,
+        51.4511108398438
+      ]
+    }
+  },
+  "dron": {
+    "id": "dron",
+    "name": "Dronten",
+    "coordinates": {
+      "world": [
+        5.72089,
+        52.5344
+      ]
+    }
+  },
+  "ed": {
+    "id": "ed",
+    "name": "Ede-Wageningen",
+    "coordinates": {
+      "world": [
+        5.67305564880371,
+        52.0277786254883
+      ]
+    }
+  },
+  "edc": {
+    "id": "edc",
+    "name": "Ede Centrum",
+    "coordinates": {
+      "world": [
+        5.66833353042603,
+        52.0436096191406
+      ]
+    }
+  },
+  "eem": {
+    "id": "eem",
+    "name": "Eemshaven",
+    "coordinates": {
+      "world": [
+        6.832,
+        53.458419
+      ]
+    }
+  },
+  "ehv": {
+    "id": "ehv",
+    "name": "Eindhoven Centraal",
+    "coordinates": {
+      "world": [
+        5.48138904571533,
+        51.4433326721191
+      ]
+    }
+  },
+  "est": {
+    "id": "est",
+    "name": "Elst",
+    "coordinates": {
+      "world": [
+        5.85500001907349,
+        51.9169425964355
+      ]
+    }
+  },
+  "emn": {
+    "id": "emn",
+    "name": "Emmen",
+    "coordinates": {
+      "world": [
+        6.89944458007812,
+        52.7900009155273
+      ]
+    }
+  },
+  "ekz": {
+    "id": "ekz",
+    "name": "Enkhuizen",
+    "coordinates": {
+      "world": [
+        5.28638887405396,
+        52.6991653442383
+      ]
+    }
+  },
+  "es": {
+    "id": "es",
+    "name": "Enschede",
+    "coordinates": {
+      "world": [
+        6.8899998664856,
+        52.2224998474121
+      ]
+    }
+  },
+  "eml": {
+    "id": "eml",
+    "name": "Ermelo",
+    "coordinates": {
+      "world": [
+        5.61472225189209,
+        52.3016662597656
+      ]
+    }
+  },
+  "ese": {
+    "id": "ese",
+    "name": "Enschede De Eschmarke",
+    "coordinates": {
+      "world": [
+        6.95111131668091,
+        52.2213897705078
+      ]
+    }
+  },
+  "etn": {
+    "id": "etn",
+    "name": "Etten-Leur",
+    "coordinates": {
+      "world": [
+        4.63583326339722,
+        51.5750007629395
+      ]
+    }
+  },
+  "edn": {
+    "id": "edn",
+    "name": "Eijsden",
+    "coordinates": {
+      "world": [
+        5.71000003814697,
+        50.7719459533691
+      ]
+    }
+  },
+  "esk": {
+    "id": "esk",
+    "name": "Enschede Kennispark",
+    "coordinates": {
+      "world": [
+        6.83888912200928,
+        52.2374992370605
+      ]
+    }
+  },
+  "almo": {
+    "id": "almo",
+    "name": "Almere Oostvaarders",
+    "coordinates": {
+      "world": [
+        5.30055570602417,
+        52.4033317565918
+      ]
+    }
+  },
+  "ahz": {
+    "id": "ahz",
+    "name": "Arnhem Zuid",
+    "coordinates": {
+      "world": [
+        5.85194444656372,
+        51.9550018310547
+      ]
+    }
+  },
+  "avat": {
+    "id": "avat",
+    "name": "Amersfoort Vathorst",
+    "coordinates": {
+      "world": [
+        5.43388891220093,
+        52.1927795410156
+      ]
+    }
+  },
+  "apdo": {
+    "id": "apdo",
+    "name": "Apeldoorn Osseveld",
+    "coordinates": {
+      "world": [
+        6.00444459915161,
+        52.2152786254883
+      ]
+    }
+  },
+  "bkf": {
+    "id": "bkf",
+    "name": "Bovenkarspel Flora",
+    "coordinates": {
+      "world": [
+        5.25277757644653,
+        52.6961097717285
+      ]
+    }
+  },
+  "ashd": {
+    "id": "ashd",
+    "name": "Amsterdam Holendrecht",
+    "coordinates": {
+      "world": [
+        4.95972,
+        52.29844
+      ]
+    }
+  },
+  "fn": {
+    "id": "fn",
+    "name": "Franeker",
+    "coordinates": {
+      "world": [
+        5.5483094,
+        53.1824488
+      ]
+    }
+  },
+  "apdm": {
+    "id": "apdm",
+    "name": "Apeldoorn De Maten",
+    "coordinates": {
+      "world": [
+        6.00055551528931,
+        52.2052764892578
+      ]
+    }
+  },
+  "eghm": {
+    "id": "eghm",
+    "name": "Eygelshoven Markt",
+    "coordinates": {
+      "world": [
+        6.0602474212646396,
+        50.8960498196442
+      ]
+    }
+  },
+  "assp": {
+    "id": "assp",
+    "name": "Amsterdam Science Park",
+    "coordinates": {
+      "world": [
+        4.94651,
+        52.35526
+      ]
+    }
+  },
+  "bhdv": {
+    "id": "bhdv",
+    "name": "Boven-Hardinxveld",
+    "coordinates": {
+      "world": [
+        4.878056,
+        51.832222
+      ]
+    }
+  },
+  "gerp": {
+    "id": "gerp",
+    "name": "Groningen Europapark",
+    "coordinates": {
+      "world": [
+        6.5854178,
+        53.20480027
+      ]
+    }
+  },
+  "gdr": {
+    "id": "gdr",
+    "name": "Gaanderen",
+    "coordinates": {
+      "world": [
+        6.3486,
+        51.93074
+      ]
+    }
+  },
+  "hmbv": {
+    "id": "hmbv",
+    "name": "Helmond Brandevoort",
+    "coordinates": {
+      "world": [
+        5.60722208023071,
+        51.4622230529785
+      ]
+    }
+  },
+  "gdm": {
+    "id": "gdm",
+    "name": "Geldermalsen",
+    "coordinates": {
+      "world": [
+        5.27127,
+        51.88301
+      ]
+    }
+  },
+  "gp": {
+    "id": "gp",
+    "name": "Geldrop",
+    "coordinates": {
+      "world": [
+        5.55055570602417,
+        51.4197235107422
+      ]
+    }
+  },
+  "gln": {
+    "id": "gln",
+    "name": "Geleen Oost",
+    "coordinates": {
+      "world": [
+        5.84305572509766,
+        50.9669456481934
+      ]
+    }
+  },
+  "lut": {
+    "id": "lut",
+    "name": "Geleen-Lutterade",
+    "coordinates": {
+      "world": [
+        5.82472229003906,
+        50.9755554199219
+      ]
+    }
+  },
+  "gz": {
+    "id": "gz",
+    "name": "Gilze-Rijen",
+    "coordinates": {
+      "world": [
+        4.92611122131348,
+        51.583610534668
+      ]
+    }
+  },
+  "gs": {
+    "id": "gs",
+    "name": "Goes",
+    "coordinates": {
+      "world": [
+        3.89055562019348,
+        51.4980545043945
+      ]
+    }
+  },
+  "go": {
+    "id": "go",
+    "name": "Goor",
+    "coordinates": {
+      "world": [
+        6.58444452285767,
+        52.2302780151367
+      ]
+    }
+  },
+  "gr": {
+    "id": "gr",
+    "name": "Gorinchem",
+    "coordinates": {
+      "world": [
+        4.96833324432373,
+        51.8338890075684
+      ]
+    }
+  },
+  "gdg": {
+    "id": "gdg",
+    "name": "Gouda Goverwelle",
+    "coordinates": {
+      "world": [
+        4.7408332824707,
+        52.0149993896484
+      ]
+    }
+  },
+  "gd": {
+    "id": "gd",
+    "name": "Gouda",
+    "coordinates": {
+      "world": [
+        4.70444440841675,
+        52.0175018310547
+      ]
+    }
+  },
+  "gbg": {
+    "id": "gbg",
+    "name": "Gramsbergen",
+    "coordinates": {
+      "world": [
+        6.67583322525024,
+        52.6091651916504
+      ]
+    }
+  },
+  "gbr": {
+    "id": "gbr",
+    "name": "Glanerbrug",
+    "coordinates": {
+      "world": [
+        6.97444438934326,
+        52.2186126708984
+      ]
+    }
+  },
+  "gn": {
+    "id": "gn",
+    "name": "Groningen",
+    "coordinates": {
+      "world": [
+        6.56472206115723,
+        53.2105560302734
+      ]
+    }
+  },
+  "gnn": {
+    "id": "gnn",
+    "name": "Groningen Noord",
+    "coordinates": {
+      "world": [
+        6.5563172,
+        53.2301469
+      ]
+    }
+  },
+  "gw": {
+    "id": "gw",
+    "name": "Grou-Jirnsum",
+    "coordinates": {
+      "world": [
+        5.82250022888184,
+        53.0888900756836
+      ]
+    }
+  },
+  "gk": {
+    "id": "gk",
+    "name": "Grijpskerk",
+    "coordinates": {
+      "world": [
+        6.30977869033813,
+        53.2557403255735
+      ]
+    }
+  },
+  "hlms": {
+    "id": "hlms",
+    "name": "Haarlem Spaarnwoude",
+    "coordinates": {
+      "world": [
+        4.67305564880371,
+        52.3827781677246
+      ]
+    }
+  },
+  "gvm": {
+    "id": "gvm",
+    "name": "Den Haag Mariahoeve",
+    "coordinates": {
+      "world": [
+        4.36944437026978,
+        52.0905570983887
+      ]
+    }
+  },
+  "gvmw": {
+    "id": "gvmw",
+    "name": "Den Haag Moerwijk",
+    "coordinates": {
+      "world": [
+        4.3086109161377,
+        52.0538902282715
+      ]
+    }
+  },
+  "gv": {
+    "id": "gv",
+    "name": "Den Haag HS",
+    "coordinates": {
+      "world": [
+        4.32250022888184,
+        52.0697212219238
+      ]
+    }
+  },
+  "gvc": {
+    "id": "gvc",
+    "name": "Den Haag Centraal",
+    "coordinates": {
+      "world": [
+        4.32499980926514,
+        52.0802764892578
+      ]
+    }
+  },
+  "hlm": {
+    "id": "hlm",
+    "name": "Haarlem",
+    "coordinates": {
+      "world": [
+        4.63833332061768,
+        52.3877792358398
+      ]
+    }
+  },
+  "hdg": {
+    "id": "hdg",
+    "name": "Hurdegaryp",
+    "coordinates": {
+      "world": [
+        5.934543,
+        53.2187783
+      ]
+    }
+  },
+  "hdb": {
+    "id": "hdb",
+    "name": "Hardenberg",
+    "coordinates": {
+      "world": [
+        6.62861108779907,
+        52.5727767944336
+      ]
+    }
+  },
+  "hd": {
+    "id": "hd",
+    "name": "Harderwijk",
+    "coordinates": {
+      "world": [
+        5.61972236633301,
+        52.3375015258789
+      ]
+    }
+  },
+  "gnd": {
+    "id": "gnd",
+    "name": "Hardinxveld-Giessendam",
+    "coordinates": {
+      "world": [
+        4.83583354949951,
+        51.8305549621582
+      ]
+    }
+  },
+  "hlg": {
+    "id": "hlg",
+    "name": "Harlingen",
+    "coordinates": {
+      "world": [
+        5.4251932,
+        53.1704205
+      ]
+    }
+  },
+  "hrn": {
+    "id": "hrn",
+    "name": "Haren",
+    "coordinates": {
+      "world": [
+        6.61722230911255,
+        53.1761093139648
+      ]
+    }
+  },
+  "hlgh": {
+    "id": "hlgh",
+    "name": "Harlingen Haven",
+    "coordinates": {
+      "world": [
+        5.4112885,
+        53.174917
+      ]
+    }
+  },
+  "hmbh": {
+    "id": "hmbh",
+    "name": "Helmond Brouwhuis",
+    "coordinates": {
+      "world": [
+        5.70177,
+        51.47068
+      ]
+    }
+  },
+  "hmh": {
+    "id": "hmh",
+    "name": "Helmond 't Hout",
+    "coordinates": {
+      "world": [
+        5.63085,
+        51.46794
+      ]
+    }
+  },
+  "hry": {
+    "id": "hry",
+    "name": "Heerenveen IJsstadion",
+    "coordinates": {
+      "world": [
+        5.94388866424561,
+        52.9352760314941
+      ]
+    }
+  },
+  "had": {
+    "id": "had",
+    "name": "Heemstede-Aerdenhout",
+    "coordinates": {
+      "world": [
+        4.60666656494141,
+        52.3591651916504
+      ]
+    }
+  },
+  "hdrz": {
+    "id": "hdrz",
+    "name": "Den Helder Zuid",
+    "coordinates": {
+      "world": [
+        4.76416683197022,
+        52.9324989318848
+      ]
+    }
+  },
+  "hr": {
+    "id": "hr",
+    "name": "Heerenveen",
+    "coordinates": {
+      "world": [
+        5.91416645050049,
+        52.9613876342773
+      ]
+    }
+  },
+  "hwd": {
+    "id": "hwd",
+    "name": "Heerhugowaard",
+    "coordinates": {
+      "world": [
+        4.82277774810791,
+        52.6697235107422
+      ]
+    }
+  },
+  "hrl": {
+    "id": "hrl",
+    "name": "Heerlen",
+    "coordinates": {
+      "world": [
+        5.97499990463257,
+        50.8908348083496
+      ]
+    }
+  },
+  "hze": {
+    "id": "hze",
+    "name": "Heeze",
+    "coordinates": {
+      "world": [
+        5.56944465637207,
+        51.3849983215332
+      ]
+    }
+  },
+  "hlo": {
+    "id": "hlo",
+    "name": "Heiloo",
+    "coordinates": {
+      "world": [
+        4.70055532455444,
+        52.5994453430176
+      ]
+    }
+  },
+  "hno": {
+    "id": "hno",
+    "name": "Heino",
+    "coordinates": {
+      "world": [
+        6.22111129760742,
+        52.4272232055664
+      ]
+    }
+  },
+  "hdr": {
+    "id": "hdr",
+    "name": "Den Helder",
+    "coordinates": {
+      "world": [
+        4.76111125946045,
+        52.9552764892578
+      ]
+    }
+  },
+  "hglo": {
+    "id": "hglo",
+    "name": "Hengelo Oost",
+    "coordinates": {
+      "world": [
+        6.81944465637207,
+        52.2688903808594
+      ]
+    }
+  },
+  "hm": {
+    "id": "hm",
+    "name": "Helmond",
+    "coordinates": {
+      "world": [
+        5.66194438934326,
+        51.4755554199219
+      ]
+    }
+  },
+  "hmn": {
+    "id": "hmn",
+    "name": "Hemmen-Dodewaard",
+    "coordinates": {
+      "world": [
+        5.6737254,
+        51.9222129
+      ]
+    }
+  },
+  "hgl": {
+    "id": "hgl",
+    "name": "Hengelo",
+    "coordinates": {
+      "world": [
+        6.79388904571533,
+        52.2616653442383
+      ]
+    }
+  },
+  "hk": {
+    "id": "hk",
+    "name": "Heemskerk",
+    "coordinates": {
+      "world": [
+        4.68694448471069,
+        52.4952774047852
+      ]
+    }
+  },
+  "ht": {
+    "id": "ht",
+    "name": "'s-Hertogenbosch",
+    "coordinates": {
+      "world": [
+        5.29362,
+        51.69048
+      ]
+    }
+  },
+  "hto": {
+    "id": "hto",
+    "name": "'s-Hertogenbosch Oost",
+    "coordinates": {
+      "world": [
+        5.3183331489563,
+        51.700553894043
+      ]
+    }
+  },
+  "hvs": {
+    "id": "hvs",
+    "name": "Hilversum",
+    "coordinates": {
+      "world": [
+        5.18194437026978,
+        52.2258338928223
+      ]
+    }
+  },
+  "hnp": {
+    "id": "hnp",
+    "name": "Hindeloopen",
+    "coordinates": {
+      "world": [
+        5.423063,
+        52.9464903
+      ]
+    }
+  },
+  "hvsm": {
+    "id": "hvsm",
+    "name": "Hilversum Media Park",
+    "coordinates": {
+      "world": [
+        5.17388868331909,
+        52.2380561828613
+      ]
+    }
+  },
+  "hb": {
+    "id": "hb",
+    "name": "Hoensbroek",
+    "coordinates": {
+      "world": [
+        5.93055534362793,
+        50.9055557250977
+      ]
+    }
+  },
+  "hor": {
+    "id": "hor",
+    "name": "Hollandsche Rading",
+    "coordinates": {
+      "world": [
+        5.17916679382324,
+        52.1777763366699
+      ]
+    }
+  },
+  "hon": {
+    "id": "hon",
+    "name": "Holten",
+    "coordinates": {
+      "world": [
+        6.42027759552002,
+        52.2838897705078
+      ]
+    }
+  },
+  "hil": {
+    "id": "hil",
+    "name": "Hillegom",
+    "coordinates": {
+      "world": [
+        4.56555557250977,
+        52.3025016784668
+      ]
+    }
+  },
+  "hgv": {
+    "id": "hgv",
+    "name": "Hoogeveen",
+    "coordinates": {
+      "world": [
+        6.47361087799072,
+        52.7338905334473
+      ]
+    }
+  },
+  "hgz": {
+    "id": "hgz",
+    "name": "Hoogezand-Sappemeer",
+    "coordinates": {
+      "world": [
+        6.77075386047363,
+        53.1598181316756
+      ]
+    }
+  },
+  "hfd": {
+    "id": "hfd",
+    "name": "Hoofddorp",
+    "coordinates": {
+      "world": [
+        4.70055532455444,
+        52.2933349609375
+      ]
+    }
+  },
+  "hks": {
+    "id": "hks",
+    "name": "Hoogkarspel",
+    "coordinates": {
+      "world": [
+        5.18388891220093,
+        52.6905555725098
+      ]
+    }
+  },
+  "htnc": {
+    "id": "htnc",
+    "name": "Houten Castellum",
+    "coordinates": {
+      "world": [
+        5.17949,
+        52.01701
+      ]
+    }
+  },
+  "hnk": {
+    "id": "hnk",
+    "name": "Hoorn Kersenboogerd",
+    "coordinates": {
+      "world": [
+        5.08555555343628,
+        52.6536102294922
+      ]
+    }
+  },
+  "hn": {
+    "id": "hn",
+    "name": "Hoorn",
+    "coordinates": {
+      "world": [
+        5.05555534362793,
+        52.6447219848633
+      ]
+    }
+  },
+  "egh": {
+    "id": "egh",
+    "name": "Eygelshoven",
+    "coordinates": {
+      "world": [
+        6.04500007629395,
+        50.8905563354492
+      ]
+    }
+  },
+  "hrt": {
+    "id": "hrt",
+    "name": "Horst-Sevenum",
+    "coordinates": {
+      "world": [
+        6.04222202301025,
+        51.4263877868652
+      ]
+    }
+  },
+  "htn": {
+    "id": "htn",
+    "name": "Houten",
+    "coordinates": {
+      "world": [
+        5.16821,
+        52.03402
+      ]
+    }
+  },
+  "sgl": {
+    "id": "sgl",
+    "name": "Houthem-St. Gerlach",
+    "coordinates": {
+      "world": [
+        5.79722213745117,
+        50.8733329772949
+      ]
+    }
+  },
+  "kpn": {
+    "id": "kpn",
+    "name": "Kampen",
+    "coordinates": {
+      "world": [
+        5.92166662216186,
+        52.5597229003906
+      ]
+    }
+  },
+  "bzl": {
+    "id": "bzl",
+    "name": "Kapelle-Biezelinge",
+    "coordinates": {
+      "world": [
+        3.95611119270325,
+        51.4808349609375
+      ]
+    }
+  },
+  "krd": {
+    "id": "krd",
+    "name": "Kerkrade Centrum",
+    "coordinates": {
+      "world": [
+        6.05749988555908,
+        50.8616676330566
+      ]
+    }
+  },
+  "ktr": {
+    "id": "ktr",
+    "name": "Kesteren",
+    "coordinates": {
+      "world": [
+        5.5833465,
+        51.9313869
+      ]
+    }
+  },
+  "kpnz": {
+    "id": "kpnz",
+    "name": "Kampen Zuid",
+    "coordinates": {
+      "world": [
+        5.91309,
+        52.5331
+      ]
+    }
+  },
+  "kbk": {
+    "id": "kbk",
+    "name": "Klarenbeek",
+    "coordinates": {
+      "world": [
+        6.08361101150513,
+        52.1780548095703
+      ]
+    }
+  },
+  "kmr": {
+    "id": "kmr",
+    "name": "Klimmen-Ransdaal",
+    "coordinates": {
+      "world": [
+        5.8905553817749,
+        50.8663902282715
+      ]
+    }
+  },
+  "kz": {
+    "id": "kz",
+    "name": "Koog aan de Zaan",
+    "coordinates": {
+      "world": [
+        4.80555534362793,
+        52.458610534668
+      ]
+    }
+  },
+  "zzs": {
+    "id": "zzs",
+    "name": "Zaandijk Zaanse Schans",
+    "coordinates": {
+      "world": [
+        4.80499982833862,
+        52.469165802002
+      ]
+    }
+  },
+  "kmw": {
+    "id": "kmw",
+    "name": "Koudum-Molkwerum",
+    "coordinates": {
+      "world": [
+        5.4106913,
+        52.9028197
+      ]
+    }
+  },
+  "kbd": {
+    "id": "kbd",
+    "name": "Krabbendijke",
+    "coordinates": {
+      "world": [
+        4.11694431304932,
+        51.4333343505859
+      ]
+    }
+  },
+  "kma": {
+    "id": "kma",
+    "name": "Krommenie-Assendelft",
+    "coordinates": {
+      "world": [
+        4.75417,
+        52.49511
+      ]
+    }
+  },
+  "kw": {
+    "id": "kw",
+    "name": "Kropswolde",
+    "coordinates": {
+      "world": [
+        6.7220882,
+        53.1617362
+      ]
+    }
+  },
+  "krg": {
+    "id": "krg",
+    "name": "Kruiningen-Yerseke",
+    "coordinates": {
+      "world": [
+        4.03722238540649,
+        51.4650001525879
+      ]
+    }
+  },
+  "ypb": {
+    "id": "ypb",
+    "name": "Den Haag Ypenburg",
+    "coordinates": {
+      "world": [
+        4.39222240447998,
+        52.0552787780762
+      ]
+    }
+  },
+  "laa": {
+    "id": "laa",
+    "name": "Den Haag Laan v NOI",
+    "coordinates": {
+      "world": [
+        4.34277772903442,
+        52.0786094665527
+      ]
+    }
+  },
+  "zlw": {
+    "id": "zlw",
+    "name": "Lage Zwaluwe",
+    "coordinates": {
+      "world": [
+        4.66305541992188,
+        51.6911125183105
+      ]
+    }
+  },
+  "ldl": {
+    "id": "ldl",
+    "name": "Leiden Lammenschans",
+    "coordinates": {
+      "world": [
+        4.49249982833862,
+        52.1469459533691
+      ]
+    }
+  },
+  "ldm": {
+    "id": "ldm",
+    "name": "Leerdam",
+    "coordinates": {
+      "world": [
+        5.09138870239258,
+        51.8947219848633
+      ]
+    }
+  },
+  "lw": {
+    "id": "lw",
+    "name": "Leeuwarden",
+    "coordinates": {
+      "world": [
+        5.79222202301025,
+        53.1958351135254
+      ]
+    }
+  },
+  "hde": {
+    "id": "hde",
+    "name": "'t Harde",
+    "coordinates": {
+      "world": [
+        5.893611,
+        52.4091682
+      ]
+    }
+  },
+  "lwc": {
+    "id": "lwc",
+    "name": "Leeuwarden Camminghaburen",
+    "coordinates": {
+      "world": [
+        5.8422968,
+        53.2021808
+      ]
+    }
+  },
+  "ledn": {
+    "id": "ledn",
+    "name": "Leiden Centraal",
+    "coordinates": {
+      "world": [
+        4.48166656494141,
+        52.1661109924316
+      ]
+    }
+  },
+  "lls": {
+    "id": "lls",
+    "name": "Lelystad Centrum",
+    "coordinates": {
+      "world": [
+        5.47277784347534,
+        52.5077781677246
+      ]
+    }
+  },
+  "ltv": {
+    "id": "ltv",
+    "name": "Lichtenvoorde-Groenlo",
+    "coordinates": {
+      "world": [
+        6.59641,
+        52.01188
+      ]
+    }
+  },
+  "lc": {
+    "id": "lc",
+    "name": "Lochem",
+    "coordinates": {
+      "world": [
+        6.42638874053955,
+        52.1666679382324
+      ]
+    }
+  },
+  "hwzb": {
+    "id": "hwzb",
+    "name": "Halfweg-Zwanenburg",
+    "coordinates": {
+      "world": [
+        4.747165,
+        52.385935
+      ]
+    }
+  },
+  "lp": {
+    "id": "lp",
+    "name": "Loppersum",
+    "coordinates": {
+      "world": [
+        6.7472625,
+        53.3347145
+      ]
+    }
+  },
+  "hrlw": {
+    "id": "hrlw",
+    "name": "Heerlen Woonboulevard",
+    "coordinates": {
+      "world": [
+        5.952222,
+        50.896667
+      ]
+    }
+  },
+  "ltn": {
+    "id": "ltn",
+    "name": "Lunteren",
+    "coordinates": {
+      "world": [
+        5.62444448471069,
+        52.085277557373
+      ]
+    }
+  },
+  "emnz": {
+    "id": "emnz",
+    "name": "Emmen Zuid",
+    "coordinates": {
+      "world": [
+        6.87478065490722,
+        52.7488663746914
+      ]
+    }
+  },
+  "mrn": {
+    "id": "mrn",
+    "name": "Maarn",
+    "coordinates": {
+      "world": [
+        5.36999988555908,
+        52.0641670227051
+      ]
+    }
+  },
+  "mas": {
+    "id": "mas",
+    "name": "Maarssen",
+    "coordinates": {
+      "world": [
+        5.03361129760742,
+        52.1352767944336
+      ]
+    }
+  },
+  "mt": {
+    "id": "mt",
+    "name": "Maastricht",
+    "coordinates": {
+      "world": [
+        5.70555543899536,
+        50.8502769470215
+      ]
+    }
+  },
+  "mtr": {
+    "id": "mtr",
+    "name": "Maastricht Randwyck",
+    "coordinates": {
+      "world": [
+        5.71722221374512,
+        50.8386116027832
+      ]
+    }
+  },
+  "mg": {
+    "id": "mg",
+    "name": "Mantgum",
+    "coordinates": {
+      "world": [
+        5.7131996,
+        53.1296368
+      ]
+    }
+  },
+  "mrb": {
+    "id": "mrb",
+    "name": "Mariënberg",
+    "coordinates": {
+      "world": [
+        6.57527780532837,
+        52.5094451904297
+      ]
+    }
+  },
+  "mth": {
+    "id": "mth",
+    "name": "Martenshoek",
+    "coordinates": {
+      "world": [
+        6.7402989,
+        53.1607232
+      ]
+    }
+  },
+  "mz": {
+    "id": "mz",
+    "name": "Maarheeze",
+    "coordinates": {
+      "world": [
+        5.629796,
+        51.304986
+      ]
+    }
+  },
+  "hglg": {
+    "id": "hglg",
+    "name": "Hengelo Gezondheidspark",
+    "coordinates": {
+      "world": [
+        6.773611,
+        52.261667
+      ]
+    }
+  },
+  "mes": {
+    "id": "mes",
+    "name": "Meerssen",
+    "coordinates": {
+      "world": [
+        5.75099945068359,
+        50.882879392551
+      ]
+    }
+  },
+  "mp": {
+    "id": "mp",
+    "name": "Meppel",
+    "coordinates": {
+      "world": [
+        6.19750022888184,
+        52.6908340454102
+      ]
+    }
+  },
+  "mdb": {
+    "id": "mdb",
+    "name": "Middelburg",
+    "coordinates": {
+      "world": [
+        3.61722230911255,
+        51.4947204589844
+      ]
+    }
+  },
+  "hbzm": {
+    "id": "hbzm",
+    "name": "Hardinxveld Blauwe Zoom",
+    "coordinates": {
+      "world": [
+        4.81556,
+        51.82944
+      ]
+    }
+  },
+  "mmlh": {
+    "id": "mmlh",
+    "name": "Mook-Molenhoek",
+    "coordinates": {
+      "world": [
+        5.879133,
+        51.766262
+      ]
+    }
+  },
+  "mtn": {
+    "id": "mtn",
+    "name": "Maastricht Noord",
+    "coordinates": {
+      "world": [
+        5.71774,
+        50.87087
+      ]
+    }
+  },
+  "ampo": {
+    "id": "ampo",
+    "name": "Almere Poort",
+    "coordinates": {
+      "world": [
+        5.151944,
+        52.342778
+      ]
+    }
+  },
+  "nml": {
+    "id": "nml",
+    "name": "Nijmegen Lent",
+    "coordinates": {
+      "world": [
+        5.859625,
+        51.863154
+      ]
+    }
+  },
+  "ndb": {
+    "id": "ndb",
+    "name": "Naarden-Bussum",
+    "coordinates": {
+      "world": [
+        5.15694427490234,
+        52.2802772521973
+      ]
+    }
+  },
+  "na": {
+    "id": "na",
+    "name": "Nieuw Amsterdam",
+    "coordinates": {
+      "world": [
+        6.84861087799072,
+        52.7186126708984
+      ]
+    }
+  },
+  "nwk": {
+    "id": "nwk",
+    "name": "Nieuwerkerk a/d IJssel",
+    "coordinates": {
+      "world": [
+        4.61694431304932,
+        51.9652786254883
+      ]
+    }
+  },
+  "nsch": {
+    "id": "nsch",
+    "name": "Bad Nieuweschans",
+    "coordinates": {
+      "world": [
+        7.19937,
+        53.1844
+      ]
+    }
+  },
+  "nvp": {
+    "id": "nvp",
+    "name": "Nieuw Vennep",
+    "coordinates": {
+      "world": [
+        4.64555549621582,
+        52.2588882446289
+      ]
+    }
+  },
+  "ns": {
+    "id": "ns",
+    "name": "Nunspeet",
+    "coordinates": {
+      "world": [
+        5.78527784347534,
+        52.3708343505859
+      ]
+    }
+  },
+  "nh": {
+    "id": "nh",
+    "name": "Nuth",
+    "coordinates": {
+      "world": [
+        5.89277791976929,
+        50.9194450378418
+      ]
+    }
+  },
+  "nmh": {
+    "id": "nmh",
+    "name": "Nijmegen Heyendaal",
+    "coordinates": {
+      "world": [
+        5.86749982833862,
+        51.8269462585449
+      ]
+    }
+  },
+  "nkk": {
+    "id": "nkk",
+    "name": "Nijkerk",
+    "coordinates": {
+      "world": [
+        5.49388885498047,
+        52.2222213745117
+      ]
+    }
+  },
+  "nm": {
+    "id": "nm",
+    "name": "Nijmegen",
+    "coordinates": {
+      "world": [
+        5.85222244262695,
+        51.8436126708984
+      ]
+    }
+  },
+  "nvd": {
+    "id": "nvd",
+    "name": "Nijverdal",
+    "coordinates": {
+      "world": [
+        6.462,
+        52.366111
+      ]
+    }
+  },
+  "nmd": {
+    "id": "nmd",
+    "name": "Nijmegen Dukenburg",
+    "coordinates": {
+      "world": [
+        5.79555559158325,
+        51.8241653442383
+      ]
+    }
+  },
+  "nmgo": {
+    "id": "nmgo",
+    "name": "Nijmegen Goffert",
+    "coordinates": {
+      "world": [
+        5.822722,
+        51.8273
+      ]
+    }
+  },
+  "obd": {
+    "id": "obd",
+    "name": "Obdam",
+    "coordinates": {
+      "world": [
+        4.90722227096558,
+        52.6780548095703
+      ]
+    }
+  },
+  "ot": {
+    "id": "ot",
+    "name": "Oisterwijk",
+    "coordinates": {
+      "world": [
+        5.19416666030884,
+        51.5822219848633
+      ]
+    }
+  },
+  "odz": {
+    "id": "odz",
+    "name": "Oldenzaal",
+    "coordinates": {
+      "world": [
+        6.93472242355347,
+        52.3063888549805
+      ]
+    }
+  },
+  "ost": {
+    "id": "ost",
+    "name": "Olst",
+    "coordinates": {
+      "world": [
+        6.11305570602417,
+        52.3347206115723
+      ]
+    }
+  },
+  "omn": {
+    "id": "omn",
+    "name": "Ommen",
+    "coordinates": {
+      "world": [
+        6.41583347320557,
+        52.5094451904297
+      ]
+    }
+  },
+  "otb": {
+    "id": "otb",
+    "name": "Oosterbeek",
+    "coordinates": {
+      "world": [
+        5.84000015258789,
+        51.9949989318848
+      ]
+    }
+  },
+  "hvl": {
+    "id": "hvl",
+    "name": "Hoevelaken",
+    "coordinates": {
+      "world": [
+        5.45718,
+        52.16652
+      ]
+    }
+  },
+  "op": {
+    "id": "op",
+    "name": "Opheusden",
+    "coordinates": {
+      "world": [
+        5.6371145,
+        51.9261615
+      ]
+    }
+  },
+  "o": {
+    "id": "o",
+    "name": "Oss",
+    "coordinates": {
+      "world": [
+        5.53222227096558,
+        51.7655563354492
+      ]
+    }
+  },
+  "ow": {
+    "id": "ow",
+    "name": "Oss West",
+    "coordinates": {
+      "world": [
+        5.50555562973022,
+        51.758056640625
+      ]
+    }
+  },
+  "sdtb": {
+    "id": "sdtb",
+    "name": "Sliedrecht Baanhoek",
+    "coordinates": {
+      "world": [
+        4.743333,
+        51.829722
+      ]
+    }
+  },
+  "odb": {
+    "id": "odb",
+    "name": "Oudenbosch",
+    "coordinates": {
+      "world": [
+        4.53333330154419,
+        51.587776184082
+      ]
+    }
+  },
+  "pmw": {
+    "id": "pmw",
+    "name": "Purmerend Weidevenne",
+    "coordinates": {
+      "world": [
+        4.93562936782836,
+        52.4965906325416
+      ]
+    }
+  },
+  "ovn": {
+    "id": "ovn",
+    "name": "Overveen",
+    "coordinates": {
+      "world": [
+        4.6061110496521,
+        52.3911094665527
+      ]
+    }
+  },
+  "rsw": {
+    "id": "rsw",
+    "name": "Rijswijk",
+    "coordinates": {
+      "world": [
+        4.31916666030884,
+        52.039722442627
+      ]
+    }
+  },
+  "pmo": {
+    "id": "pmo",
+    "name": "Purmerend Overwhere",
+    "coordinates": {
+      "world": [
+        4.96833324432373,
+        52.5113906860352
+      ]
+    }
+  },
+  "rta": {
+    "id": "rta",
+    "name": "Rotterdam Alexander",
+    "coordinates": {
+      "world": [
+        4.55361127853394,
+        51.9519462585449
+      ]
+    }
+  },
+  "pmr": {
+    "id": "pmr",
+    "name": "Purmerend",
+    "coordinates": {
+      "world": [
+        4.95361089706421,
+        52.5030555725098
+      ]
+    }
+  },
+  "pt": {
+    "id": "pt",
+    "name": "Putten",
+    "coordinates": {
+      "world": [
+        5.57527780532837,
+        52.2649993896484
+      ]
+    }
+  },
+  "rat": {
+    "id": "rat",
+    "name": "Raalte",
+    "coordinates": {
+      "world": [
+        6.27750015258789,
+        52.3916664123535
+      ]
+    }
+  },
+  "rvs": {
+    "id": "rvs",
+    "name": "Ravenstein",
+    "coordinates": {
+      "world": [
+        5.63583326339722,
+        51.7941665649414
+      ]
+    }
+  },
+  "rhn": {
+    "id": "rhn",
+    "name": "Rhenen",
+    "coordinates": {
+      "world": [
+        5.57833337783814,
+        51.958610534668
+      ]
+    }
+  },
+  "rv": {
+    "id": "rv",
+    "name": "Reuver",
+    "coordinates": {
+      "world": [
+        6.07895851135253,
+        51.2832191665301
+      ]
+    }
+  },
+  "rh": {
+    "id": "rh",
+    "name": "Rheden",
+    "coordinates": {
+      "world": [
+        6.0314,
+        52.0101
+      ]
+    }
+  },
+  "amri": {
+    "id": "amri",
+    "name": "Almelo de Riet",
+    "coordinates": {
+      "world": [
+        6.66666650772095,
+        52.3419456481934
+      ]
+    }
+  },
+  "rb": {
+    "id": "rb",
+    "name": "Rilland-Bath",
+    "coordinates": {
+      "world": [
+        4.16111087799072,
+        51.422779083252
+      ]
+    }
+  },
+  "rm": {
+    "id": "rm",
+    "name": "Roermond",
+    "coordinates": {
+      "world": [
+        5.9941668510437,
+        51.1930541992188
+      ]
+    }
+  },
+  "rs": {
+    "id": "rs",
+    "name": "Rosmalen",
+    "coordinates": {
+      "world": [
+        5.36805534362793,
+        51.7147216796875
+      ]
+    }
+  },
+  "rd": {
+    "id": "rd",
+    "name": "Roodeschool",
+    "coordinates": {
+      "world": [
+        6.7587,
+        53.421262
+      ]
+    }
+  },
+  "rsd": {
+    "id": "rsd",
+    "name": "Roosendaal",
+    "coordinates": {
+      "world": [
+        4.45833349227905,
+        51.5402793884277
+      ]
+    }
+  },
+  "rtb": {
+    "id": "rtb",
+    "name": "Rotterdam Blaak",
+    "coordinates": {
+      "world": [
+        4.48888874053955,
+        51.9202766418457
+      ]
+    }
+  },
+  "rtd": {
+    "id": "rtd",
+    "name": "Rotterdam Centraal",
+    "coordinates": {
+      "world": [
+        4.46888875961304,
+        51.9249992370605
+      ]
+    }
+  },
+  "rtn": {
+    "id": "rtn",
+    "name": "Rotterdam Noord",
+    "coordinates": {
+      "world": [
+        4.48166656494141,
+        51.9422225952148
+      ]
+    }
+  },
+  "rtz": {
+    "id": "rtz",
+    "name": "Rotterdam Zuid",
+    "coordinates": {
+      "world": [
+        4.51027774810791,
+        51.9044456481934
+      ]
+    }
+  },
+  "rtst": {
+    "id": "rtst",
+    "name": "Rotterdam Stadion",
+    "coordinates": {
+      "world": [
+        4.51972198486328,
+        51.8938903808594
+      ]
+    }
+  },
+  "rl": {
+    "id": "rl",
+    "name": "Ruurlo",
+    "coordinates": {
+      "world": [
+        6.4492656,
+        52.0810888
+      ]
+    }
+  },
+  "rsn": {
+    "id": "rsn",
+    "name": "Rijssen",
+    "coordinates": {
+      "world": [
+        6.52027797698975,
+        52.3122215270996
+      ]
+    }
+  },
+  "rlb": {
+    "id": "rlb",
+    "name": "Rotterdam Lombardijen",
+    "coordinates": {
+      "world": [
+        4.53138875961304,
+        51.8800010681152
+      ]
+    }
+  },
+  "sptn": {
+    "id": "sptn",
+    "name": "Santpoort Noord",
+    "coordinates": {
+      "world": [
+        4.63250017166138,
+        52.4338874816895
+      ]
+    }
+  },
+  "sptz": {
+    "id": "sptz",
+    "name": "Santpoort Zuid",
+    "coordinates": {
+      "world": [
+        4.63138866424561,
+        52.4197235107422
+      ]
+    }
+  },
+  "swd": {
+    "id": "swd",
+    "name": "Sauwerd",
+    "coordinates": {
+      "world": [
+        6.5404,
+        53.29113
+      ]
+    }
+  },
+  "lg": {
+    "id": "lg",
+    "name": "Landgraaf",
+    "coordinates": {
+      "world": [
+        6.01916646957398,
+        50.8963890075684
+      ]
+    }
+  },
+  "sgn": {
+    "id": "sgn",
+    "name": "Schagen",
+    "coordinates": {
+      "world": [
+        4.80527782440186,
+        52.7844429016113
+      ]
+    }
+  },
+  "sda": {
+    "id": "sda",
+    "name": "Scheemda",
+    "coordinates": {
+      "world": [
+        6.9777775,
+        53.1655362
+      ]
+    }
+  },
+  "sdm": {
+    "id": "sdm",
+    "name": "Schiedam Centrum",
+    "coordinates": {
+      "world": [
+        4.4089937210083,
+        51.9212438128032
+      ]
+    }
+  },
+  "sn": {
+    "id": "sn",
+    "name": "Schinnen",
+    "coordinates": {
+      "world": [
+        5.87444448471069,
+        50.9391670227051
+      ]
+    }
+  },
+  "sog": {
+    "id": "sog",
+    "name": "Schin op Geul",
+    "coordinates": {
+      "world": [
+        5.87222242355347,
+        50.856388092041
+      ]
+    }
+  },
+  "shl": {
+    "id": "shl",
+    "name": "Schiphol Airport",
+    "coordinates": {
+      "world": [
+        4.76194429397583,
+        52.3094444274902
+      ]
+    }
+  },
+  "std": {
+    "id": "std",
+    "name": "Sittard",
+    "coordinates": {
+      "world": [
+        5.85861110687256,
+        51.0016670227051
+      ]
+    }
+  },
+  "sdt": {
+    "id": "sdt",
+    "name": "Sliedrecht",
+    "coordinates": {
+      "world": [
+        4.77833318710327,
+        51.8297233581543
+      ]
+    }
+  },
+  "sk": {
+    "id": "sk",
+    "name": "Sneek",
+    "coordinates": {
+      "world": [
+        5.6523969,
+        53.0328688
+      ]
+    }
+  },
+  "st": {
+    "id": "st",
+    "name": "Soest",
+    "coordinates": {
+      "world": [
+        5.30999994277954,
+        52.1733322143555
+      ]
+    }
+  },
+  "sd": {
+    "id": "sd",
+    "name": "Soestdijk",
+    "coordinates": {
+      "world": [
+        5.30000019073486,
+        52.1836128234863
+      ]
+    }
+  },
+  "hvsp": {
+    "id": "hvsp",
+    "name": "Hilversum Sportpark",
+    "coordinates": {
+      "world": [
+        5.18722200393677,
+        52.2161102294922
+      ]
+    }
+  },
+  "stz": {
+    "id": "stz",
+    "name": "Soest Zuid",
+    "coordinates": {
+      "world": [
+        5.30305576324463,
+        52.1652793884277
+      ]
+    }
+  },
+  "sbk": {
+    "id": "sbk",
+    "name": "Spaubeek",
+    "coordinates": {
+      "world": [
+        5.850529,
+        50.94327
+      ]
+    }
+  },
+  "sknd": {
+    "id": "sknd",
+    "name": "Sneek Noord",
+    "coordinates": {
+      "world": [
+        5.6631808,
+        53.0409319
+      ]
+    }
+  },
+  "stv": {
+    "id": "stv",
+    "name": "Stavoren",
+    "coordinates": {
+      "world": [
+        5.3600212,
+        52.8865535
+      ]
+    }
+  },
+  "stm": {
+    "id": "stm",
+    "name": "Stedum",
+    "coordinates": {
+      "world": [
+        6.6875551,
+        53.3262092
+      ]
+    }
+  },
+  "swk": {
+    "id": "swk",
+    "name": "Steenwijk",
+    "coordinates": {
+      "world": [
+        6.11455576324463,
+        52.7915109924316
+      ]
+    }
+  },
+  "srn": {
+    "id": "srn",
+    "name": "Susteren",
+    "coordinates": {
+      "world": [
+        5.86305570602417,
+        51.0613899230957
+      ]
+    }
+  },
+  "sm": {
+    "id": "sm",
+    "name": "Swalmen",
+    "coordinates": {
+      "world": [
+        6.03228,
+        51.23582
+      ]
+    }
+  },
+  "tg": {
+    "id": "tg",
+    "name": "Tegelen",
+    "coordinates": {
+      "world": [
+        6.14253,
+        51.33894
+      ]
+    }
+  },
+  "tbg": {
+    "id": "tbg",
+    "name": "Terborg",
+    "coordinates": {
+      "world": [
+        6.3642466,
+        51.9224549
+      ]
+    }
+  },
+  "tbu": {
+    "id": "tbu",
+    "name": "Tilburg Universiteit",
+    "coordinates": {
+      "world": [
+        5.051778,
+        51.564985
+      ]
+    }
+  },
+  "tl": {
+    "id": "tl",
+    "name": "Tiel",
+    "coordinates": {
+      "world": [
+        5.42222213745117,
+        51.8894462585449
+      ]
+    }
+  },
+  "tb": {
+    "id": "tb",
+    "name": "Tilburg",
+    "coordinates": {
+      "world": [
+        5.08361101150513,
+        51.5605545043945
+      ]
+    }
+  },
+  "tbr": {
+    "id": "tbr",
+    "name": "Tilburg Reeshof",
+    "coordinates": {
+      "world": [
+        4.99444437026978,
+        51.5736122131348
+      ]
+    }
+  },
+  "twl": {
+    "id": "twl",
+    "name": "Twello",
+    "coordinates": {
+      "world": [
+        6.09861087799072,
+        52.2377777099609
+      ]
+    }
+  },
+  "tpsw": {
+    "id": "tpsw",
+    "name": "Tiel Passewaaij",
+    "coordinates": {
+      "world": [
+        5.39222240447998,
+        51.8738899230957
+      ]
+    }
+  },
+  "ssh": {
+    "id": "ssh",
+    "name": "Sassenheim",
+    "coordinates": {
+      "world": [
+        4.517222,
+        52.215278
+      ]
+    }
+  },
+  "utvr": {
+    "id": "utvr",
+    "name": "Utrecht Vaartsche Rijn",
+    "coordinates": {
+      "world": [
+        5.121667,
+        52.078889
+      ]
+    }
+  },
+  "utlr": {
+    "id": "utlr",
+    "name": "Utrecht Leidsche Rijn",
+    "coordinates": {
+      "world": [
+        5.06523,
+        52.09896
+      ]
+    }
+  },
+  "utzl": {
+    "id": "utzl",
+    "name": "Utrecht Zuilen",
+    "coordinates": {
+      "world": [
+        5.09,
+        52.103055
+      ]
+    }
+  },
+  "utt": {
+    "id": "utt",
+    "name": "Utrecht Terwijde",
+    "coordinates": {
+      "world": [
+        5.0439547,
+        52.1000753
+      ]
+    }
+  },
+  "utg": {
+    "id": "utg",
+    "name": "Uitgeest",
+    "coordinates": {
+      "world": [
+        4.70166683197022,
+        52.5216674804687
+      ]
+    }
+  },
+  "uhz": {
+    "id": "uhz",
+    "name": "Uithuizen",
+    "coordinates": {
+      "world": [
+        6.6748869,
+        53.4099568
+      ]
+    }
+  },
+  "uhm": {
+    "id": "uhm",
+    "name": "Uithuizermeeden",
+    "coordinates": {
+      "world": [
+        6.7202975,
+        53.4145845
+      ]
+    }
+  },
+  "ust": {
+    "id": "ust",
+    "name": "Usquert",
+    "coordinates": {
+      "world": [
+        6.6093776,
+        53.4014742
+      ]
+    }
+  },
+  "uto": {
+    "id": "uto",
+    "name": "Utrecht Overvecht",
+    "coordinates": {
+      "world": [
+        5.12472200393677,
+        52.1100006103516
+      ]
+    }
+  },
+  "ut": {
+    "id": "ut",
+    "name": "Utrecht Centraal",
+    "coordinates": {
+      "world": [
+        5.11027765274048,
+        52.0888900756836
+      ]
+    }
+  },
+  "utln": {
+    "id": "utln",
+    "name": "Utrecht Lunetten",
+    "coordinates": {
+      "world": [
+        5.14416646957397,
+        52.0655555725098
+      ]
+    }
+  },
+  "utm": {
+    "id": "utm",
+    "name": "Utrecht Maliebaan",
+    "coordinates": {
+      "world": [
+        5.13138866424561,
+        52.087776184082
+      ]
+    }
+  },
+  "vndc": {
+    "id": "vndc",
+    "name": "Veenendaal Centrum",
+    "coordinates": {
+      "world": [
+        5.54861116409302,
+        52.0200004577637
+      ]
+    }
+  },
+  "vndw": {
+    "id": "vndw",
+    "name": "Veenendaal West",
+    "coordinates": {
+      "world": [
+        5.53138875961304,
+        52.0280570983887
+      ]
+    }
+  },
+  "vk": {
+    "id": "vk",
+    "name": "Valkenburg",
+    "coordinates": {
+      "world": [
+        5.83222198486328,
+        50.8697204589844
+      ]
+    }
+  },
+  "vsv": {
+    "id": "vsv",
+    "name": "Varsseveld",
+    "coordinates": {
+      "world": [
+        6.458839,
+        51.937257
+      ]
+    }
+  },
+  "vdm": {
+    "id": "vdm",
+    "name": "Veendam",
+    "coordinates": {
+      "world": [
+        6.88475,
+        53.10324
+      ]
+    }
+  },
+  "klp": {
+    "id": "klp",
+    "name": "Veenendaal-De Klomp",
+    "coordinates": {
+      "world": [
+        5.57388877868652,
+        52.0458335876465
+      ]
+    }
+  },
+  "fwd": {
+    "id": "fwd",
+    "name": "Feanwâlden",
+    "coordinates": {
+      "world": [
+        5.9886615,
+        53.2351834
+      ]
+    }
+  },
+  "vp": {
+    "id": "vp",
+    "name": "Velp",
+    "coordinates": {
+      "world": [
+        5.98027801513672,
+        51.9947204589844
+      ]
+    }
+  },
+  "vl": {
+    "id": "vl",
+    "name": "Venlo",
+    "coordinates": {
+      "world": [
+        6.17277765274048,
+        51.3636093139648
+      ]
+    }
+  },
+  "vry": {
+    "id": "vry",
+    "name": "Venray",
+    "coordinates": {
+      "world": [
+        6.01417779922485,
+        51.526568099007
+      ]
+    }
+  },
+  "vlb": {
+    "id": "vlb",
+    "name": "Vierlingsbeek",
+    "coordinates": {
+      "world": [
+        5.99714,
+        51.59193
+      ]
+    }
+  },
+  "vtn": {
+    "id": "vtn",
+    "name": "Vleuten",
+    "coordinates": {
+      "world": [
+        5.007404,
+        52.103056
+      ]
+    }
+  },
+  "vs": {
+    "id": "vs",
+    "name": "Vlissingen",
+    "coordinates": {
+      "world": [
+        3.59527778625488,
+        51.4458351135254
+      ]
+    }
+  },
+  "vss": {
+    "id": "vss",
+    "name": "Vlissingen Souburg",
+    "coordinates": {
+      "world": [
+        3.59527778625488,
+        51.4647216796875
+      ]
+    }
+  },
+  "vh": {
+    "id": "vh",
+    "name": "Voorhout",
+    "coordinates": {
+      "world": [
+        4.4844446182251,
+        52.2244453430176
+      ]
+    }
+  },
+  "vdl": {
+    "id": "vdl",
+    "name": "Voerendaal",
+    "coordinates": {
+      "world": [
+        5.93027782440186,
+        50.8872222900391
+      ]
+    }
+  },
+  "vb": {
+    "id": "vb",
+    "name": "Voorburg",
+    "coordinates": {
+      "world": [
+        4.3594446182251,
+        52.0666656494141
+      ]
+    }
+  },
+  "vst": {
+    "id": "vst",
+    "name": "Voorschoten",
+    "coordinates": {
+      "world": [
+        4.43249988555908,
+        52.1252784729004
+      ]
+    }
+  },
+  "vd": {
+    "id": "vd",
+    "name": "Vorden",
+    "coordinates": {
+      "world": [
+        6.3170457,
+        52.1071949
+      ]
+    }
+  },
+  "vz": {
+    "id": "vz",
+    "name": "Vriezenveen",
+    "coordinates": {
+      "world": [
+        6.60041,
+        52.40203
+      ]
+    }
+  },
+  "vhp": {
+    "id": "vhp",
+    "name": "Vroomshoop",
+    "coordinates": {
+      "world": [
+        6.5696679,
+        52.4571921
+      ]
+    }
+  },
+  "vg": {
+    "id": "vg",
+    "name": "Vught",
+    "coordinates": {
+      "world": [
+        5.29194450378418,
+        51.6555557250977
+      ]
+    }
+  },
+  "vem": {
+    "id": "vem",
+    "name": "Voorst-Empe",
+    "coordinates": {
+      "world": [
+        6.14361095428467,
+        52.1575012207031
+      ]
+    }
+  },
+  "wadn": {
+    "id": "wadn",
+    "name": "Waddinxveen Noord",
+    "coordinates": {
+      "world": [
+        4.64833354949951,
+        52.0550003051758
+      ]
+    }
+  },
+  "wad": {
+    "id": "wad",
+    "name": "Waddinxveen",
+    "coordinates": {
+      "world": [
+        4.6497220993042,
+        52.0441665649414
+      ]
+    }
+  },
+  "wadt": {
+    "id": "wadt",
+    "name": "Waddinxveen Triangel",
+    "coordinates": {
+      "world": [
+        4.6491,
+        52.02725
+      ]
+    }
+  },
+  "wfm": {
+    "id": "wfm",
+    "name": "Warffum",
+    "coordinates": {
+      "world": [
+        6.5671364,
+        53.3908431
+      ]
+    }
+  },
+  "wt": {
+    "id": "wt",
+    "name": "Weert",
+    "coordinates": {
+      "world": [
+        5.70361089706421,
+        51.2486114501953
+      ]
+    }
+  },
+  "wp": {
+    "id": "wp",
+    "name": "Weesp",
+    "coordinates": {
+      "world": [
+        5.04305553436279,
+        52.3127784729004
+      ]
+    }
+  },
+  "wl": {
+    "id": "wl",
+    "name": "Wehl",
+    "coordinates": {
+      "world": [
+        6.213844,
+        51.9578065
+      ]
+    }
+  },
+  "wtv": {
+    "id": "wtv",
+    "name": "Westervoort",
+    "coordinates": {
+      "world": [
+        5.9695,
+        51.96286
+      ]
+    }
+  },
+  "wz": {
+    "id": "wz",
+    "name": "Wezep",
+    "coordinates": {
+      "world": [
+        6.00250005722046,
+        52.4541664123535
+      ]
+    }
+  },
+  "wdn": {
+    "id": "wdn",
+    "name": "Wierden",
+    "coordinates": {
+      "world": [
+        6.59166669845581,
+        52.3613891601562
+      ]
+    }
+  },
+  "ws": {
+    "id": "ws",
+    "name": "Winschoten",
+    "coordinates": {
+      "world": [
+        7.035101,
+        53.1392377
+      ]
+    }
+  },
+  "wsm": {
+    "id": "wsm",
+    "name": "Winsum",
+    "coordinates": {
+      "world": [
+        6.5202905,
+        53.3300994
+      ]
+    }
+  },
+  "ww": {
+    "id": "ww",
+    "name": "Winterswijk",
+    "coordinates": {
+      "world": [
+        6.7155181,
+        51.9677307
+      ]
+    }
+  },
+  "www": {
+    "id": "www",
+    "name": "Winterswijk West",
+    "coordinates": {
+      "world": [
+        6.70417,
+        51.97453
+      ]
+    }
+  },
+  "wd": {
+    "id": "wd",
+    "name": "Woerden",
+    "coordinates": {
+      "world": [
+        4.89361095428467,
+        52.0849990844727
+      ]
+    }
+  },
+  "wf": {
+    "id": "wf",
+    "name": "Wolfheze",
+    "coordinates": {
+      "world": [
+        5.7936110496521,
+        52.0055541992188
+      ]
+    }
+  },
+  "wv": {
+    "id": "wv",
+    "name": "Wolvega",
+    "coordinates": {
+      "world": [
+        6.00361108779907,
+        52.8808326721191
+      ]
+    }
+  },
+  "wk": {
+    "id": "wk",
+    "name": "Workum",
+    "coordinates": {
+      "world": [
+        5.4564285,
+        52.9724864
+      ]
+    }
+  },
+  "wm": {
+    "id": "wm",
+    "name": "Wormerveer",
+    "coordinates": {
+      "world": [
+        4.79222202301025,
+        52.4891662597656
+      ]
+    }
+  },
+  "wc": {
+    "id": "wc",
+    "name": "Wijchen",
+    "coordinates": {
+      "world": [
+        5.73083353042603,
+        51.8116683959961
+      ]
+    }
+  },
+  "wh": {
+    "id": "wh",
+    "name": "Wijhe",
+    "coordinates": {
+      "world": [
+        6.1405553817749,
+        52.3902778625488
+      ]
+    }
+  },
+  "ijt": {
+    "id": "ijt",
+    "name": "IJlst",
+    "coordinates": {
+      "world": [
+        5.6160801,
+        53.0146614
+      ]
+    }
+  },
+  "zdk": {
+    "id": "zdk",
+    "name": "Zaandam Kogerveld",
+    "coordinates": {
+      "world": [
+        4.82027769088745,
+        52.4566650390625
+      ]
+    }
+  },
+  "zd": {
+    "id": "zd",
+    "name": "Zaandam",
+    "coordinates": {
+      "world": [
+        4.81361103057861,
+        52.4388885498047
+      ]
+    }
+  },
+  "zbm": {
+    "id": "zbm",
+    "name": "Zaltbommel",
+    "coordinates": {
+      "world": [
+        5.26333332061768,
+        51.8088874816895
+      ]
+    }
+  },
+  "zvt": {
+    "id": "zvt",
+    "name": "Zandvoort aan Zee",
+    "coordinates": {
+      "world": [
+        4.53277778625488,
+        52.3752784729004
+      ]
+    }
+  },
+  "za": {
+    "id": "za",
+    "name": "Zetten-Andelst",
+    "coordinates": {
+      "world": [
+        5.7228408,
+        51.920056
+      ]
+    }
+  },
+  "zv": {
+    "id": "zv",
+    "name": "Zevenaar",
+    "coordinates": {
+      "world": [
+        6.07194423675537,
+        51.9230537414551
+      ]
+    }
+  },
+  "zvb": {
+    "id": "zvb",
+    "name": "Zevenbergen",
+    "coordinates": {
+      "world": [
+        4.60904,
+        51.64042
+      ]
+    }
+  },
+  "ztmo": {
+    "id": "ztmo",
+    "name": "Zoetermeer Oost",
+    "coordinates": {
+      "world": [
+        4.49277782440186,
+        52.0463905334473
+      ]
+    }
+  },
+  "ztm": {
+    "id": "ztm",
+    "name": "Zoetermeer",
+    "coordinates": {
+      "world": [
+        4.47722244262695,
+        52.0475006103516
+      ]
+    }
+  },
+  "zb": {
+    "id": "zb",
+    "name": "Zuidbroek",
+    "coordinates": {
+      "world": [
+        6.8679141998291,
+        53.1596122800056
+      ]
+    }
+  },
+  "zh": {
+    "id": "zh",
+    "name": "Zuidhorn",
+    "coordinates": {
+      "world": [
+        6.4062361,
+        53.2486292
+      ]
+    }
+  },
+  "zp": {
+    "id": "zp",
+    "name": "Zutphen",
+    "coordinates": {
+      "world": [
+        6.19416666030884,
+        52.1452789306641
+      ]
+    }
+  },
+  "dwe": {
+    "id": "dwe",
+    "name": "De Westereen",
+    "coordinates": {
+      "world": [
+        6.03463,
+        53.24817
+      ]
+    }
+  },
+  "zlsh": {
+    "id": "zlsh",
+    "name": "Zwolle Stadshagen",
+    "coordinates": {
+      "world": [
+        6.05146,
+        52.52764
+      ]
+    }
+  },
+  "zl": {
+    "id": "zl",
+    "name": "Zwolle",
+    "coordinates": {
+      "world": [
+        6.09194421768188,
+        52.5047225952148
+      ]
+    }
+  },
+  "zwd": {
+    "id": "zwd",
+    "name": "Zwijndrecht",
+    "coordinates": {
+      "world": [
+        4.64166688919067,
+        51.814998626709
+      ]
+    }
+  },
+  "basels": {
+    "id": "basels",
+    "name": "Basel SBB",
+    "coordinates": {
+      "world": [
+        7.58956,
+        47.5474
+      ]
+    }
+  },
+  "zue": {
+    "id": "zue",
+    "name": "Zürich HB",
+    "coordinates": {
+      "world": [
+        8.5392,
+        47.37819
+      ]
+    }
+  },
+  "badenz": {
+    "id": "badenz",
+    "name": "Baden (CH)",
+    "coordinates": {
+      "world": [
+        8.30772,
+        47.47638
+      ]
+    }
+  },
+  "lillee": {
+    "id": "lillee",
+    "name": "Lille Europe",
+    "coordinates": {
+      "world": [
+        3.074722,
+        50.639444
+      ]
+    }
+  },
+  "paris": {
+    "id": "paris",
+    "name": "Paris-Nord",
+    "coordinates": {
+      "world": [
+        2.35575,
+        48.87977
+      ]
+    }
+  },
+  "acdg": {
+    "id": "acdg",
+    "name": "Airport Charles de Gaulle",
+    "coordinates": {
+      "world": [
+        2.571133,
+        49.004048
+      ]
+    }
+  },
+  "avtgv": {
+    "id": "avtgv",
+    "name": "Avignon TGV",
+    "coordinates": {
+      "world": [
+        4.78604,
+        43.92194
+      ]
+    }
+  },
+  "aixtgv": {
+    "id": "aixtgv",
+    "name": "Aix-en-Provence TGV",
+    "coordinates": {
+      "world": [
+        5.44531345367431,
+        43.5228190773429
+      ]
+    }
+  },
+  "marne": {
+    "id": "marne",
+    "name": "Marne-la-Vallée-Chessy",
+    "coordinates": {
+      "world": [
+        2.78218,
+        48.86826
+      ]
+    }
+  },
+  "chamb": {
+    "id": "chamb",
+    "name": "Chambéry",
+    "coordinates": {
+      "world": [
+        5.91953,
+        45.57127
+      ]
+    }
+  },
+  "albert": {
+    "id": "albert",
+    "name": "Albertville",
+    "coordinates": {
+      "world": [
+        6.38306,
+        45.67302
+      ]
+    }
+  },
+  "mout": {
+    "id": "mout",
+    "name": "Moutiers-Salins-Brides",
+    "coordinates": {
+      "world": [
+        6.53105,
+        45.48664
+      ]
+    }
+  },
+  "aime": {
+    "id": "aime",
+    "name": "Aime-la-Plagne",
+    "coordinates": {
+      "world": [
+        6.64869,
+        45.55438
+      ]
+    }
+  },
+  "landry": {
+    "id": "landry",
+    "name": "Landry",
+    "coordinates": {
+      "world": [
+        6.73378,
+        45.57414
+      ]
+    }
+  },
+  "bourg": {
+    "id": "bourg",
+    "name": "Bourg-St-Maurice",
+    "coordinates": {
+      "world": [
+        6.77167,
+        45.61918
+      ]
+    }
+  },
+  "mars": {
+    "id": "mars",
+    "name": "Marseille-St-Charles",
+    "coordinates": {
+      "world": [
+        5.38195,
+        43.30381
+      ]
+    }
+  },
+  "valtgv": {
+    "id": "valtgv",
+    "name": "Valence TGV",
+    "coordinates": {
+      "world": [
+        4.89321,
+        44.9278
+      ]
+    }
+  }
+}

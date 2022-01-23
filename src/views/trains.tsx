@@ -3,6 +3,8 @@ import { useEffect, useRef } from "react";
 import maplibregl from "maplibre-gl";
 import { Box } from "@chakra-ui/react";
 import nl from "../static-data/nl.json";
+import stations from "../static-data/generated/stations.json";
+import { points } from "@turf/turf";
 
 export const Trains = () => {
   const map = useRef<maplibregl.Map>();
@@ -15,12 +17,20 @@ export const Trains = () => {
       container: mapContainer.current,
       style: {
         version: 8,
-        glyphs:
-          "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=get_your_own_OpIi9ZULNHzrESv6T2vL", // TODO: remove maptiler dependency
+
         sources: {
           nl: {
             type: "geojson",
             data: nl,
+          },
+
+          stations: {
+            type: "geojson",
+            data: points(
+              Object.values(stations).map(
+                (station) => station.coordinates.world
+              )
+            ),
           },
         },
         layers: [
@@ -37,6 +47,17 @@ export const Trains = () => {
             type: "line",
             paint: {
               "line-color": "#00a3d3",
+            },
+          },
+
+          {
+            id: "stations",
+            source: "stations",
+            type: "circle",
+            paint: {
+              "circle-radius": 3,
+              "circle-color": "#fff",
+              "circle-stroke-width": 1,
             },
           },
         ],
