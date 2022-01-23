@@ -4,7 +4,8 @@ import maplibregl from "maplibre-gl";
 import { Box } from "@chakra-ui/react";
 import nl from "../static-data/nl.json";
 import stations from "../static-data/generated/stations.json";
-import { points } from "@turf/turf";
+import { points, buffer, bboxPolygon, bbox } from "@turf/turf";
+import { BBox2d } from "@turf/helpers/dist/js/lib/geojson";
 
 export const Trains = () => {
   const map = useRef<maplibregl.Map>();
@@ -62,10 +63,7 @@ export const Trains = () => {
           },
         ],
       },
-      bounds: [
-        [3.5, 50.75],
-        [6.75, 53.6],
-      ],
+      bounds: bbox(buffer(bboxPolygon(bbox(nl)), 25)) as BBox2d,
     });
 
     return () => {
