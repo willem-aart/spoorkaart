@@ -94,7 +94,7 @@ export const Trains = () => {
             source: "stations",
             type: "symbol",
             layout: {
-              visibility: "none",
+              // visibility: "none",
               "text-field": ["get", "name"],
               "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
               "text-allow-overlap": false,
@@ -120,7 +120,7 @@ export const Trains = () => {
           },
         ],
       },
-      bounds: bbox(buffer(bboxPolygon(bbox(nl)), 25)) as BBox2d,
+      bounds: bbox(buffer(bboxPolygon(bbox(nl)), 10)) as BBox2d,
     });
 
     return () => {
