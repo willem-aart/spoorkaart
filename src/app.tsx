@@ -1,3 +1,5 @@
+import { Trains } from "./views/trains";
+
 export const App = () => {
-  return <div>app ...</div>;
+  return <Trains />;
 };

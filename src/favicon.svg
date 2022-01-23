@@ -5,7 +5,6 @@
     </clipPath>
   </defs>
   <g clip-path="url(#a)">
-    <path fill="#fef4d0" d="M0 0h100v100H0z" />
     <path fill="none" stroke="#0063ad" stroke-width="18" d="M50.5-15.5v131" />
     <path fill="none" stroke="#0063ad" stroke-width="18" d="M-76.5 50.5h115" />
     <path fill="none" stroke="#eda330" stroke-width="18" d="M54.5 50.5h115" />

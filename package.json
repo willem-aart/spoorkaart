@@ -3,12 +3,20 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port $PORT",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.7.4",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@turf/turf": "^6.5.0",
+    "@types/lodash": "^4.14.178",
     "cross-fetch": "^3.1.5",
+    "framer-motion": "^5",
+    "lodash": "^4.17.21",
+    "maplibre-gl": "^2.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
