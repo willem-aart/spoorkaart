@@ -15,7 +15,6 @@ import {
 } from "@turf/turf";
 import { BBox2d } from "@turf/helpers/dist/js/lib/geojson";
 import { mapLabelPriorityByStationType } from "../constants";
-import diff from "maplibre-gl/src/style-spec/diff";
 
 export const Trains = () => {
   const map = useRef<maplibregl.Map>();
